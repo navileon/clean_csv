@@ -1,0 +1,24 @@
+{
+  "source_file": "perplexity-blog.csv",
+  "source_path": "/Users/ottangconnect.ust.hk/Desktop/2090/perplexity-blog.csv",
+  "processed_date": "2025-11-11T21:07:24.493078",
+  "language": "en",
+  "statistics": {
+    "paragraph_count": 1189,
+    "word_count": 51655,
+    "char_count": 343238,
+    "avg_paragraph_length": 288.67788057190916,
+    "avg_words_per_paragraph": 43.44407064760303,
+    "unique_words": 9162
+  },
+  "cleaning_params": {
+    "min_paragraph_length": 50,
+    "min_word_count": 10,
+    "max_paragraph_length": 10000,
+    "url_removed": true,
+    "html_removed": true,
+    "unicode_normalized": true,
+    "boilerplate_filtered": true,
+    "case_insensitive_dedup": true
+  }
+}

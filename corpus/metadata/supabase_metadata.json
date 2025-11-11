@@ -1,0 +1,24 @@
+{
+  "source_file": "supabase.csv",
+  "source_path": "/Users/ottangconnect.ust.hk/Desktop/2090/supabase.csv",
+  "processed_date": "2025-11-11T21:07:24.809121",
+  "language": "en",
+  "statistics": {
+    "paragraph_count": 3133,
+    "word_count": 97316,
+    "char_count": 585043,
+    "avg_paragraph_length": 186.73571656559207,
+    "avg_words_per_paragraph": 31.06160229811682,
+    "unique_words": 11184
+  },
+  "cleaning_params": {
+    "min_paragraph_length": 50,
+    "min_word_count": 10,
+    "max_paragraph_length": 10000,
+    "url_removed": true,
+    "html_removed": true,
+    "unicode_normalized": true,
+    "boilerplate_filtered": true,
+    "case_insensitive_dedup": true
+  }
+}

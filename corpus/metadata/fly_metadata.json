@@ -1,0 +1,24 @@
+{
+  "source_file": "fly.csv",
+  "source_path": "/Users/ottangconnect.ust.hk/Desktop/2090/fly.csv",
+  "processed_date": "2025-11-11T21:07:23.080639",
+  "language": "en",
+  "statistics": {
+    "paragraph_count": 2967,
+    "word_count": 118883,
+    "char_count": 681116,
+    "avg_paragraph_length": 229.5638692281766,
+    "avg_words_per_paragraph": 40.068419278732726,
+    "unique_words": 15006
+  },
+  "cleaning_params": {
+    "min_paragraph_length": 50,
+    "min_word_count": 10,
+    "max_paragraph_length": 10000,
+    "url_removed": true,
+    "html_removed": true,
+    "unicode_normalized": true,
+    "boilerplate_filtered": true,
+    "case_insensitive_dedup": true
+  }
+}

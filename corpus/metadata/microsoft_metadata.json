@@ -1,0 +1,24 @@
+{
+  "source_file": "microsoft.csv",
+  "source_path": "/Users/ottangconnect.ust.hk/Desktop/2090/microsoft.csv",
+  "processed_date": "2025-11-11T21:07:24.015211",
+  "language": "en",
+  "statistics": {
+    "paragraph_count": 1963,
+    "word_count": 156244,
+    "char_count": 1022966,
+    "avg_paragraph_length": 521.1237901171676,
+    "avg_words_per_paragraph": 79.59449821701477,
+    "unique_words": 15051
+  },
+  "cleaning_params": {
+    "min_paragraph_length": 50,
+    "min_word_count": 10,
+    "max_paragraph_length": 10000,
+    "url_removed": true,
+    "html_removed": true,
+    "unicode_normalized": true,
+    "boilerplate_filtered": true,
+    "case_insensitive_dedup": true
+  }
+}

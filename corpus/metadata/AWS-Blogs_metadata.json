@@ -1,0 +1,24 @@
+{
+  "source_file": "AWS-Blogs.csv",
+  "source_path": "/Users/ottangconnect.ust.hk/Desktop/2090/AWS-Blogs.csv",
+  "processed_date": "2025-11-11T21:07:22.377563",
+  "language": "en",
+  "statistics": {
+    "paragraph_count": 2677,
+    "word_count": 221775,
+    "char_count": 1521026,
+    "avg_paragraph_length": 568.1830407172208,
+    "avg_words_per_paragraph": 82.8446021666044,
+    "unique_words": 22971
+  },
+  "cleaning_params": {
+    "min_paragraph_length": 50,
+    "min_word_count": 10,
+    "max_paragraph_length": 10000,
+    "url_removed": true,
+    "html_removed": true,
+    "unicode_normalized": true,
+    "boilerplate_filtered": true,
+    "case_insensitive_dedup": true
+  }
+}

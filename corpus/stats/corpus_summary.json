@@ -1,0 +1,46 @@
+{
+  "total_sources": 5,
+  "total_paragraphs": 11929,
+  "total_words": 645873,
+  "total_chars": 4153389,
+  "languages": {
+    "en": 5
+  },
+  "sources": [
+    {
+      "name": "AWS-Blogs",
+      "source_file": "AWS-Blogs.csv",
+      "paragraphs": 2677,
+      "words": 221775,
+      "language": "en"
+    },
+    {
+      "name": "fly",
+      "source_file": "fly.csv",
+      "paragraphs": 2967,
+      "words": 118883,
+      "language": "en"
+    },
+    {
+      "name": "microsoft",
+      "source_file": "microsoft.csv",
+      "paragraphs": 1963,
+      "words": 156244,
+      "language": "en"
+    },
+    {
+      "name": "perplexity-blog",
+      "source_file": "perplexity-blog.csv",
+      "paragraphs": 1189,
+      "words": 51655,
+      "language": "en"
+    },
+    {
+      "name": "supabase",
+      "source_file": "supabase.csv",
+      "paragraphs": 3133,
+      "words": 97316,
+      "language": "en"
+    }
+  ]
+}
