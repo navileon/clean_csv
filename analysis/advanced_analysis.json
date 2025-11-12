@@ -1,0 +1,102 @@
+{
+  "sentiment_analysis": {
+    "large_company": {
+      "paragraph_count": 4639,
+      "analyzed_count": 500,
+      "vader": {
+        "avg_positive": 0.10113,
+        "avg_negative": 0.018856,
+        "avg_neutral": 0.88002,
+        "avg_compound": 0.426556,
+        "median_compound": 0.4302,
+        "stdev_compound": 0.4146549723761099
+      },
+      "textblob": {
+        "avg_polarity": 0.082675939457015,
+        "median_polarity": 0.05,
+        "stdev_polarity": 0.1840422657537138,
+        "avg_subjectivity": 0.34648983606964684,
+        "median_subjectivity": 0.3666666666666667,
+        "stdev_subjectivity": 0.2505522939207824
+      }
+    },
+    "small_company": {
+      "paragraph_count": 7284,
+      "analyzed_count": 500,
+      "vader": {
+        "avg_positive": 0.087286,
+        "avg_negative": 0.046956,
+        "avg_neutral": 0.865742,
+        "avg_compound": 0.1696914,
+        "median_compound": 0.18365,
+        "stdev_compound": 0.462195135448768
+      },
+      "textblob": {
+        "avg_polarity": 0.11241872170025742,
+        "median_polarity": 0.1,
+        "stdev_polarity": 0.21120752448535676,
+        "avg_subjectivity": 0.440692954154972,
+        "median_subjectivity": 0.45454545454545453,
+        "stdev_subjectivity": 0.22672040269324942
+      }
+    }
+  },
+  "readability_analysis": {
+    "large_company": {
+      "overall": {
+        "flesch_reading_ease": 32.852411387900844,
+        "flesch_kincaid_grade": 13.613423119025033,
+        "gunning_fog": 16.240567791795115,
+        "smog_index": 14.988458364074212,
+        "automated_readability_index": 15.19908906876988,
+        "coleman_liau_index": 14.735074845905487,
+        "linsear_write_formula": 19.5,
+        "dale_chall_readability_score": 12.573931815046699
+      },
+      "paragraph_count": 4639,
+      "analyzed_count": 500,
+      "paragraph_stats": {
+        "avg_fk_grade": 16.611127772058833,
+        "median_fk_grade": 15.638095238095236,
+        "stdev_fk_grade": 7.564476850752963
+      }
+    },
+    "small_company": {
+      "overall": {
+        "flesch_reading_ease": 63.05398181670782,
+        "flesch_kincaid_grade": 7.931229992677633,
+        "gunning_fog": 10.150707874637096,
+        "smog_index": 10.69976161389475,
+        "automated_readability_index": 8.787107408323962,
+        "coleman_liau_index": 9.669711966742554,
+        "linsear_write_formula": 4.7,
+        "dale_chall_readability_score": 9.655009611553485
+      },
+      "paragraph_count": 7284,
+      "analyzed_count": 500,
+      "paragraph_stats": {
+        "avg_fk_grade": 8.582627421100115,
+        "median_fk_grade": 8.370000000000001,
+        "stdev_fk_grade": 3.6116072456789796
+      }
+    }
+  },
+  "lexical_diversity": {
+    "large_company": {
+      "ttr": 0.03861862688726741,
+      "mtld": 80.28326846359658,
+      "unique_words": 14306,
+      "total_words": 370443,
+      "avg_word_length": 5.516846046490283,
+      "median_word_length": 5
+    },
+    "small_company": {
+      "ttr": 0.046463625258014236,
+      "mtld": 94.29397010482946,
+      "unique_words": 12133,
+      "total_words": 261129,
+      "avg_word_length": 4.874629014778137,
+      "median_word_length": 4
+    }
+  }
+}

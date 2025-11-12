@@ -1,0 +1,3445 @@
+{
+  "metadata": {
+    "large_companies": [
+      "aws_blogs",
+      "microsoft"
+    ],
+    "small_companies": [
+      "fly",
+      "perplexity_blog",
+      "supabase"
+    ],
+    "large_tokens": 232784,
+    "small_tokens": 142436,
+    "large_unique": 13989,
+    "small_unique": 11877
+  },
+  "frequency_analysis": {
+    "large_company": {
+      "total_tokens": 232784,
+      "unique_tokens": 13989,
+      "top_100_words": [
+        {
+          "word": "aws",
+          "count": 2812
+        },
+        {
+          "word": "data",
+          "count": 2630
+        },
+        {
+          "word": "microsoft",
+          "count": 1998
+        },
+        {
+          "word": "amazon",
+          "count": 1420
+        },
+        {
+          "word": "new",
+          "count": 1270
+        },
+        {
+          "word": "copilot",
+          "count": 1146
+        },
+        {
+          "word": "cloud",
+          "count": 1059
+        },
+        {
+          "word": "customers",
+          "count": 972
+        },
+        {
+          "word": "service",
+          "count": 916
+        },
+        {
+          "word": "time",
+          "count": 887
+        },
+        {
+          "word": "security",
+          "count": 784
+        },
+        {
+          "word": "business",
+          "count": 758
+        },
+        {
+          "word": "azure",
+          "count": 754
+        },
+        {
+          "word": "solutions",
+          "count": 752
+        },
+        {
+          "word": "create",
+          "count": 743
+        },
+        {
+          "word": "across",
+          "count": 743
+        },
+        {
+          "word": "services",
+          "count": 720
+        },
+        {
+          "word": "access",
+          "count": 706
+        },
+        {
+          "word": "help",
+          "count": 658
+        },
+        {
+          "word": "model",
+          "count": 599
+        },
+        {
+          "word": "work",
+          "count": 595
+        },
+        {
+          "word": "solution",
+          "count": 558
+        },
+        {
+          "word": "customer",
+          "count": 547
+        },
+        {
+          "word": "based",
+          "count": 520
+        },
+        {
+          "word": "application",
+          "count": 512
+        },
+        {
+          "word": "capabilities",
+          "count": 510
+        },
+        {
+          "word": "platform",
+          "count": 505
+        },
+        {
+          "word": "account",
+          "count": 491
+        },
+        {
+          "word": "following",
+          "count": 485
+        },
+        {
+          "word": "organizations",
+          "count": 474
+        },
+        {
+          "word": "like",
+          "count": 474
+        },
+        {
+          "word": "experience",
+          "count": 474
+        },
+        {
+          "word": "support",
+          "count": 468
+        },
+        {
+          "word": "user",
+          "count": 465
+        },
+        {
+          "word": "applications",
+          "count": 452
+        },
+        {
+          "word": "management",
+          "count": 444
+        },
+        {
+          "word": "partners",
+          "count": 443
+        },
+        {
+          "word": "build",
+          "count": 432
+        },
+        {
+          "word": "example",
+          "count": 423
+        },
+        {
+          "word": "users",
+          "count": 420
+        },
+        {
+          "word": "need",
+          "count": 412
+        },
+        {
+          "word": "models",
+          "count": 405
+        },
+        {
+          "word": "key",
+          "count": 405
+        },
+        {
+          "word": "information",
+          "count": 402
+        },
+        {
+          "word": "partner",
+          "count": 399
+        },
+        {
+          "word": "cost",
+          "count": 398
+        },
+        {
+          "word": "technology",
+          "count": 396
+        },
+        {
+          "word": "team",
+          "count": 395
+        },
+        {
+          "word": "today",
+          "count": 392
+        },
+        {
+          "word": "innovation",
+          "count": 391
+        },
+        {
+          "word": "available",
+          "count": 384
+        },
+        {
+          "word": "region",
+          "count": 380
+        },
+        {
+          "word": "product",
+          "count": 377
+        },
+        {
+          "word": "teams",
+          "count": 369
+        },
+        {
+          "word": "including",
+          "count": 366
+        },
+        {
+          "word": "agent",
+          "count": 364
+        },
+        {
+          "word": "company",
+          "count": 355
+        },
+        {
+          "word": "digital",
+          "count": 354
+        },
+        {
+          "word": "resources",
+          "count": 354
+        },
+        {
+          "word": "industry",
+          "count": 346
+        },
+        {
+          "word": "api",
+          "count": 336
+        },
+        {
+          "word": "provide",
+          "count": 336
+        },
+        {
+          "word": "world",
+          "count": 335
+        },
+        {
+          "word": "make",
+          "count": 334
+        },
+        {
+          "word": "system",
+          "count": 334
+        },
+        {
+          "word": "resource",
+          "count": 334
+        },
+        {
+          "word": "enterprise",
+          "count": 333
+        },
+        {
+          "word": "systems",
+          "count": 332
+        },
+        {
+          "word": "tools",
+          "count": 332
+        },
+        {
+          "word": "choose",
+          "count": 332
+        },
+        {
+          "word": "name",
+          "count": 331
+        },
+        {
+          "word": "value",
+          "count": 328
+        },
+        {
+          "word": "infrastructure",
+          "count": 328
+        },
+        {
+          "word": "step",
+          "count": 326
+        },
+        {
+          "word": "products",
+          "count": 324
+        },
+        {
+          "word": "first",
+          "count": 323
+        },
+        {
+          "word": "development",
+          "count": 322
+        },
+        {
+          "word": "post",
+          "count": 319
+        },
+        {
+          "word": "employees",
+          "count": 319
+        },
+        {
+          "word": "specific",
+          "count": 318
+        },
+        {
+          "word": "insights",
+          "count": 315
+        },
+        {
+          "word": "sagemaker",
+          "count": 309
+        },
+        {
+          "word": "scale",
+          "count": 307
+        },
+        {
+          "word": "approach",
+          "count": 306
+        },
+        {
+          "word": "next",
+          "count": 306
+        },
+        {
+          "word": "within",
+          "count": 303
+        },
+        {
+          "word": "process",
+          "count": 301
+        },
+        {
+          "word": "every",
+          "count": 300
+        },
+        {
+          "word": "code",
+          "count": 300
+        },
+        {
+          "word": "content",
+          "count": 300
+        },
+        {
+          "word": "software",
+          "count": 299
+        },
+        {
+          "word": "building",
+          "count": 296
+        },
+        {
+          "word": "deploy",
+          "count": 295
+        },
+        {
+          "word": "performance",
+          "count": 294
+        },
+        {
+          "word": "quantum",
+          "count": 294
+        },
+        {
+          "word": "real",
+          "count": 293
+        },
+        {
+          "word": "learning",
+          "count": 292
+        },
+        {
+          "word": "provides",
+          "count": 292
+        },
+        {
+          "word": "get",
+          "count": 291
+        },
+        {
+          "word": "search",
+          "count": 290
+        }
+      ]
+    },
+    "small_company": {
+      "total_tokens": 142436,
+      "unique_tokens": 11877,
+      "top_100_words": [
+        {
+          "word": "supabase",
+          "count": 952
+        },
+        {
+          "word": "like",
+          "count": 881
+        },
+        {
+          "word": "data",
+          "count": 833
+        },
+        {
+          "word": "database",
+          "count": 801
+        },
+        {
+          "word": "new",
+          "count": 706
+        },
+        {
+          "word": "time",
+          "count": 591
+        },
+        {
+          "word": "perplexity",
+          "count": 572
+        },
+        {
+          "word": "postgres",
+          "count": 529
+        },
+        {
+          "word": "fly",
+          "count": 511
+        },
+        {
+          "word": "get",
+          "count": 507
+        },
+        {
+          "word": "need",
+          "count": 500
+        },
+        {
+          "word": "app",
+          "count": 498
+        },
+        {
+          "word": "code",
+          "count": 486
+        },
+        {
+          "word": "users",
+          "count": 481
+        },
+        {
+          "word": "any",
+          "count": 473
+        },
+        {
+          "word": "want",
+          "count": 464
+        },
+        {
+          "word": "run",
+          "count": 456
+        },
+        {
+          "word": "make",
+          "count": 437
+        },
+        {
+          "word": "first",
+          "count": 428
+        },
+        {
+          "word": "work",
+          "count": 413
+        },
+        {
+          "word": "user",
+          "count": 396
+        },
+        {
+          "word": "api",
+          "count": 395
+        },
+        {
+          "word": "server",
+          "count": 377
+        },
+        {
+          "word": "model",
+          "count": 348
+        },
+        {
+          "word": "access",
+          "count": 347
+        },
+        {
+          "word": "file",
+          "count": 338
+        },
+        {
+          "word": "project",
+          "count": 334
+        },
+        {
+          "word": "create",
+          "count": 333
+        },
+        {
+          "word": "way",
+          "count": 331
+        },
+        {
+          "word": "build",
+          "count": 322
+        },
+        {
+          "word": "even",
+          "count": 312
+        },
+        {
+          "word": "search",
+          "count": 309
+        },
+        {
+          "word": "every",
+          "count": 302
+        },
+        {
+          "word": "let",
+          "count": 284
+        },
+        {
+          "word": "see",
+          "count": 283
+        },
+        {
+          "word": "without",
+          "count": 283
+        },
+        {
+          "word": "set",
+          "count": 283
+        },
+        {
+          "word": "application",
+          "count": 280
+        },
+        {
+          "word": "example",
+          "count": 273
+        },
+        {
+          "word": "table",
+          "count": 272
+        },
+        {
+          "word": "information",
+          "count": 272
+        },
+        {
+          "word": "functions",
+          "count": 262
+        },
+        {
+          "word": "support",
+          "count": 261
+        },
+        {
+          "word": "security",
+          "count": 260
+        },
+        {
+          "word": "start",
+          "count": 258
+        },
+        {
+          "word": "write",
+          "count": 256
+        },
+        {
+          "word": "models",
+          "count": 256
+        },
+        {
+          "word": "running",
+          "count": 251
+        },
+        {
+          "word": "across",
+          "count": 248
+        },
+        {
+          "word": "machine",
+          "count": 246
+        },
+        {
+          "word": "features",
+          "count": 246
+        },
+        {
+          "word": "read",
+          "count": 245
+        },
+        {
+          "word": "sqlite",
+          "count": 244
+        },
+        {
+          "word": "storage",
+          "count": 242
+        },
+        {
+          "word": "today",
+          "count": 240
+        },
+        {
+          "word": "open",
+          "count": 238
+        },
+        {
+          "word": "single",
+          "count": 237
+        },
+        {
+          "word": "page",
+          "count": 236
+        },
+        {
+          "word": "function",
+          "count": 236
+        },
+        {
+          "word": "performance",
+          "count": 231
+        },
+        {
+          "word": "system",
+          "count": 228
+        },
+        {
+          "word": "different",
+          "count": 223
+        },
+        {
+          "word": "next",
+          "count": 222
+        },
+        {
+          "word": "tools",
+          "count": 219
+        },
+        {
+          "word": "platform",
+          "count": 219
+        },
+        {
+          "word": "process",
+          "count": 214
+        },
+        {
+          "word": "take",
+          "count": 212
+        },
+        {
+          "word": "query",
+          "count": 212
+        },
+        {
+          "word": "source",
+          "count": 211
+        },
+        {
+          "word": "edge",
+          "count": 210
+        },
+        {
+          "word": "applications",
+          "count": 210
+        },
+        {
+          "word": "client",
+          "count": 210
+        },
+        {
+          "word": "find",
+          "count": 209
+        },
+        {
+          "word": "request",
+          "count": 208
+        },
+        {
+          "word": "apps",
+          "count": 207
+        },
+        {
+          "word": "people",
+          "count": 206
+        },
+        {
+          "word": "built",
+          "count": 205
+        },
+        {
+          "word": "changes",
+          "count": 203
+        },
+        {
+          "word": "simple",
+          "count": 202
+        },
+        {
+          "word": "building",
+          "count": 202
+        },
+        {
+          "word": "tokens",
+          "count": 201
+        },
+        {
+          "word": "better",
+          "count": 199
+        },
+        {
+          "word": "pro",
+          "count": 199
+        },
+        {
+          "word": "token",
+          "count": 198
+        },
+        {
+          "word": "since",
+          "count": 198
+        },
+        {
+          "word": "things",
+          "count": 197
+        },
+        {
+          "word": "real",
+          "count": 193
+        },
+        {
+          "word": "world",
+          "count": 189
+        },
+        {
+          "word": "node",
+          "count": 188
+        },
+        {
+          "word": "available",
+          "count": 187
+        },
+        {
+          "word": "many",
+          "count": 185
+        },
+        {
+          "word": "lot",
+          "count": 184
+        },
+        {
+          "word": "well",
+          "count": 183
+        },
+        {
+          "word": "web",
+          "count": 183
+        },
+        {
+          "word": "sql",
+          "count": 182
+        },
+        {
+          "word": "means",
+          "count": 182
+        },
+        {
+          "word": "team",
+          "count": 182
+        },
+        {
+          "word": "add",
+          "count": 179
+        },
+        {
+          "word": "state",
+          "count": 178
+        },
+        {
+          "word": "comet",
+          "count": 178
+        }
+      ]
+    }
+  },
+  "tfidf_analysis": {
+    "large_company_distinctive": [
+      {
+        "word": "vpc",
+        "tfidf": 0.0005
+      },
+      {
+        "word": "quicksight",
+        "tfidf": 0.0004
+      },
+      {
+        "word": "fsx",
+        "tfidf": 0.0003
+      },
+      {
+        "word": "eks",
+        "tfidf": 0.0003
+      },
+      {
+        "word": "agentcore",
+        "tfidf": 0.0003
+      },
+      {
+        "word": "modernization",
+        "tfidf": 0.0003
+      },
+      {
+        "word": "principal",
+        "tfidf": 0.0003
+      },
+      {
+        "word": "workforce",
+        "tfidf": 0.0003
+      },
+      {
+        "word": "patient",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "cdk",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "factory",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "east",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "jumpstart",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "ipam",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "dax",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "mainframe",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "dynamodb",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "ddos",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "ibm",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "athena",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "jupyter",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "cedar",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "kms",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "qubits",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "eventbridge",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "clinical",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "mlops",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "aishield",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "foundry",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "retail",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "zone",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "women",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "lgbtqia",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "enjoys",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "para",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "clinicians",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "hamiltonian",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "pcs",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "frontline",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "nasa",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "proton",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "zepto",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "thermal",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "redshift",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "warden",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "nfs",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "viva",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "chemistry",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "patients",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "unlocking",
+        "tfidf": 0.0001
+      }
+    ],
+    "small_company_distinctive": [
+      {
+        "word": "supabase",
+        "tfidf": 0.0046
+      },
+      {
+        "word": "sqlite",
+        "tfidf": 0.0012
+      },
+      {
+        "word": "comet",
+        "tfidf": 0.0009
+      },
+      {
+        "word": "litefs",
+        "tfidf": 0.0006
+      },
+      {
+        "word": "sonar",
+        "tfidf": 0.0004
+      },
+      {
+        "word": "sandwich",
+        "tfidf": 0.0004
+      },
+      {
+        "word": "elixir",
+        "tfidf": 0.0004
+      },
+      {
+        "word": "rls",
+        "tfidf": 0.0003
+      },
+      {
+        "word": "kernels",
+        "tfidf": 0.0003
+      },
+      {
+        "word": "litestream",
+        "tfidf": 0.0003
+      },
+      {
+        "word": "stuff",
+        "tfidf": 0.0003
+      },
+      {
+        "word": "rails",
+        "tfidf": 0.0003
+      },
+      {
+        "word": "rust",
+        "tfidf": 0.0003
+      },
+      {
+        "word": "phoenix",
+        "tfidf": 0.0003
+      },
+      {
+        "word": "postgrest",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "prefill",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "parser",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "flame",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "ltx",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "corrosion",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "macaroon",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "liveview",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "consul",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "macaroons",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "branching",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "ast",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "dispatch",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "stroke",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "moe",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "vercel",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "wireguard",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "iceberg",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "pglite",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "saml",
+        "tfidf": 0.0002
+      },
+      {
+        "word": "lots",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "caveat",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "tiktok",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "wasm",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "decoder",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "buffers",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "merge",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "nomad",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "caveats",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "checksum",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "sla",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "neat",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "sandwiches",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "ollama",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "logits",
+        "tfidf": 0.0001
+      },
+      {
+        "word": "supavisor",
+        "tfidf": 0.0001
+      }
+    ]
+  },
+  "keyness_analysis": {
+    "corpus1_distinctive": [
+      {
+        "word": "aws",
+        "freq_corpus1": 2812,
+        "freq_corpus2": 101,
+        "norm_freq_corpus1": 12079.87,
+        "norm_freq_corpus2": 709.09,
+        "log_likelihood": 2003.02,
+        "chi_squared": 558.66,
+        "effect_size": 11370.78,
+        "favors": "corpus1"
+      },
+      {
+        "word": "microsoft",
+        "freq_corpus1": 1998,
+        "freq_corpus2": 10,
+        "norm_freq_corpus1": 8583.06,
+        "norm_freq_corpus2": 70.21,
+        "log_likelihood": 1801.07,
+        "chi_squared": 454.25,
+        "effect_size": 8512.86,
+        "favors": "corpus1"
+      },
+      {
+        "word": "amazon",
+        "freq_corpus1": 1420,
+        "freq_corpus2": 39,
+        "norm_freq_corpus1": 6100.08,
+        "norm_freq_corpus2": 273.81,
+        "log_likelihood": 1071.91,
+        "chi_squared": 292.84,
+        "effect_size": 5826.27,
+        "favors": "corpus1"
+      },
+      {
+        "word": "data",
+        "freq_corpus1": 2630,
+        "freq_corpus2": 833,
+        "norm_freq_corpus1": 11298.03,
+        "norm_freq_corpus2": 5848.24,
+        "log_likelihood": 303.74,
+        "chi_squared": 107.95,
+        "effect_size": 5449.79,
+        "favors": "corpus1"
+      },
+      {
+        "word": "copilot",
+        "freq_corpus1": 1146,
+        "freq_corpus2": 15,
+        "norm_freq_corpus1": 4923.02,
+        "norm_freq_corpus2": 105.31,
+        "log_likelihood": 962.99,
+        "chi_squared": 251.63,
+        "effect_size": 4817.71,
+        "favors": "corpus1"
+      },
+      {
+        "word": "cloud",
+        "freq_corpus1": 1059,
+        "freq_corpus2": 119,
+        "norm_freq_corpus1": 4549.28,
+        "norm_freq_corpus2": 835.46,
+        "log_likelihood": 470.51,
+        "chi_squared": 147.37,
+        "effect_size": 3713.82,
+        "favors": "corpus1"
+      },
+      {
+        "word": "customers",
+        "freq_corpus1": 972,
+        "freq_corpus2": 114,
+        "norm_freq_corpus1": 4175.54,
+        "norm_freq_corpus2": 800.36,
+        "log_likelihood": 419.4,
+        "chi_squared": 132.03,
+        "effect_size": 3375.19,
+        "favors": "corpus1"
+      },
+      {
+        "word": "azure",
+        "freq_corpus1": 754,
+        "freq_corpus2": 4,
+        "norm_freq_corpus1": 3239.05,
+        "norm_freq_corpus2": 28.08,
+        "log_likelihood": 677.74,
+        "chi_squared": 171.2,
+        "effect_size": 3210.97,
+        "favors": "corpus1"
+      },
+      {
+        "word": "solutions",
+        "freq_corpus1": 752,
+        "freq_corpus2": 21,
+        "norm_freq_corpus1": 3230.46,
+        "norm_freq_corpus2": 147.43,
+        "log_likelihood": 565.83,
+        "chi_squared": 154.77,
+        "effect_size": 3083.03,
+        "favors": "corpus1"
+      },
+      {
+        "word": "service",
+        "freq_corpus1": 916,
+        "freq_corpus2": 160,
+        "norm_freq_corpus1": 3934.98,
+        "norm_freq_corpus2": 1123.31,
+        "log_likelihood": 279.76,
+        "chi_squared": 92.47,
+        "effect_size": 2811.67,
+        "favors": "corpus1"
+      },
+      {
+        "word": "business",
+        "freq_corpus1": 758,
+        "freq_corpus2": 89,
+        "norm_freq_corpus1": 3256.24,
+        "norm_freq_corpus2": 624.84,
+        "log_likelihood": 326.81,
+        "chi_squared": 102.9,
+        "effect_size": 2631.4,
+        "favors": "corpus1"
+      },
+      {
+        "word": "services",
+        "freq_corpus1": 720,
+        "freq_corpus2": 98,
+        "norm_freq_corpus1": 3093.0,
+        "norm_freq_corpus2": 688.03,
+        "log_likelihood": 277.66,
+        "chi_squared": 89.0,
+        "effect_size": 2404.97,
+        "favors": "corpus1"
+      },
+      {
+        "word": "solution",
+        "freq_corpus1": 558,
+        "freq_corpus2": 51,
+        "norm_freq_corpus1": 2397.07,
+        "norm_freq_corpus2": 358.06,
+        "log_likelihood": 281.02,
+        "chi_squared": 85.93,
+        "effect_size": 2039.02,
+        "favors": "corpus1"
+      },
+      {
+        "word": "customer",
+        "freq_corpus1": 547,
+        "freq_corpus2": 64,
+        "norm_freq_corpus1": 2349.82,
+        "norm_freq_corpus2": 449.32,
+        "log_likelihood": 236.42,
+        "chi_squared": 74.4,
+        "effect_size": 1900.49,
+        "favors": "corpus1"
+      },
+      {
+        "word": "organizations",
+        "freq_corpus1": 474,
+        "freq_corpus2": 32,
+        "norm_freq_corpus1": 2036.22,
+        "norm_freq_corpus2": 224.66,
+        "log_likelihood": 275.94,
+        "chi_squared": 81.63,
+        "effect_size": 1811.56,
+        "favors": "corpus1"
+      },
+      {
+        "word": "help",
+        "freq_corpus1": 658,
+        "freq_corpus2": 146,
+        "norm_freq_corpus1": 2826.65,
+        "norm_freq_corpus2": 1025.02,
+        "log_likelihood": 149.23,
+        "chi_squared": 50.81,
+        "effect_size": 1801.63,
+        "favors": "corpus1"
+      },
+      {
+        "word": "account",
+        "freq_corpus1": 491,
+        "freq_corpus2": 56,
+        "norm_freq_corpus1": 2109.25,
+        "norm_freq_corpus2": 393.16,
+        "log_likelihood": 215.97,
+        "chi_squared": 67.76,
+        "effect_size": 1716.09,
+        "favors": "corpus1"
+      },
+      {
+        "word": "partners",
+        "freq_corpus1": 443,
+        "freq_corpus2": 39,
+        "norm_freq_corpus1": 1903.05,
+        "norm_freq_corpus2": 273.81,
+        "log_likelihood": 227.65,
+        "chi_squared": 69.32,
+        "effect_size": 1629.24,
+        "favors": "corpus1"
+      },
+      {
+        "word": "capabilities",
+        "freq_corpus1": 510,
+        "freq_corpus2": 83,
+        "norm_freq_corpus1": 2190.87,
+        "norm_freq_corpus2": 582.72,
+        "log_likelihood": 167.53,
+        "chi_squared": 54.89,
+        "effect_size": 1608.15,
+        "favors": "corpus1"
+      },
+      {
+        "word": "security",
+        "freq_corpus1": 784,
+        "freq_corpus2": 260,
+        "norm_freq_corpus1": 3367.93,
+        "norm_freq_corpus2": 1825.38,
+        "log_likelihood": 80.29,
+        "chi_squared": 28.69,
+        "effect_size": 1542.55,
+        "favors": "corpus1"
+      },
+      {
+        "word": "management",
+        "freq_corpus1": 444,
+        "freq_corpus2": 53,
+        "norm_freq_corpus1": 1907.35,
+        "norm_freq_corpus2": 372.1,
+        "log_likelihood": 189.21,
+        "chi_squared": 59.69,
+        "effect_size": 1535.25,
+        "favors": "corpus1"
+      },
+      {
+        "word": "partner",
+        "freq_corpus1": 399,
+        "freq_corpus2": 27,
+        "norm_freq_corpus1": 1714.04,
+        "norm_freq_corpus2": 189.56,
+        "log_likelihood": 232.06,
+        "chi_squared": 68.67,
+        "effect_size": 1524.48,
+        "favors": "corpus1"
+      },
+      {
+        "word": "innovation",
+        "freq_corpus1": 391,
+        "freq_corpus2": 25,
+        "norm_freq_corpus1": 1679.67,
+        "norm_freq_corpus2": 175.52,
+        "log_likelihood": 232.7,
+        "chi_squared": 68.45,
+        "effect_size": 1504.15,
+        "favors": "corpus1"
+      },
+      {
+        "word": "across",
+        "freq_corpus1": 743,
+        "freq_corpus2": 248,
+        "norm_freq_corpus1": 3191.8,
+        "norm_freq_corpus2": 1741.13,
+        "log_likelihood": 74.76,
+        "chi_squared": 26.73,
+        "effect_size": 1450.67,
+        "favors": "corpus1"
+      },
+      {
+        "word": "digital",
+        "freq_corpus1": 354,
+        "freq_corpus2": 23,
+        "norm_freq_corpus1": 1520.72,
+        "norm_freq_corpus2": 161.48,
+        "log_likelihood": 209.34,
+        "chi_squared": 61.68,
+        "effect_size": 1359.25,
+        "favors": "corpus1"
+      },
+      {
+        "word": "sagemaker",
+        "freq_corpus1": 309,
+        "freq_corpus2": 1,
+        "norm_freq_corpus1": 1327.41,
+        "norm_freq_corpus2": 7.02,
+        "log_likelihood": 283.5,
+        "chi_squared": 70.79,
+        "effect_size": 1320.39,
+        "favors": "corpus1"
+      },
+      {
+        "word": "employees",
+        "freq_corpus1": 319,
+        "freq_corpus2": 16,
+        "norm_freq_corpus1": 1370.37,
+        "norm_freq_corpus2": 112.33,
+        "log_likelihood": 207.03,
+        "chi_squared": 59.46,
+        "effect_size": 1258.04,
+        "favors": "corpus1"
+      },
+      {
+        "word": "region",
+        "freq_corpus1": 380,
+        "freq_corpus2": 55,
+        "norm_freq_corpus1": 1632.41,
+        "norm_freq_corpus2": 386.14,
+        "log_likelihood": 139.16,
+        "chi_squared": 44.94,
+        "effect_size": 1246.28,
+        "favors": "corpus1"
+      },
+      {
+        "word": "quantum",
+        "freq_corpus1": 294,
+        "freq_corpus2": 4,
+        "norm_freq_corpus1": 1262.97,
+        "norm_freq_corpus2": 28.08,
+        "log_likelihood": 246.03,
+        "chi_squared": 64.41,
+        "effect_size": 1234.89,
+        "favors": "corpus1"
+      },
+      {
+        "word": "technology",
+        "freq_corpus1": 396,
+        "freq_corpus2": 71,
+        "norm_freq_corpus1": 1701.15,
+        "norm_freq_corpus2": 498.47,
+        "log_likelihood": 117.56,
+        "chi_squared": 38.98,
+        "effect_size": 1202.68,
+        "favors": "corpus1"
+      },
+      {
+        "word": "resource",
+        "freq_corpus1": 334,
+        "freq_corpus2": 39,
+        "norm_freq_corpus1": 1434.81,
+        "norm_freq_corpus2": 273.81,
+        "log_likelihood": 144.56,
+        "chi_squared": 45.48,
+        "effect_size": 1161.0,
+        "favors": "corpus1"
+      },
+      {
+        "word": "generative",
+        "freq_corpus1": 289,
+        "freq_corpus2": 15,
+        "norm_freq_corpus1": 1241.49,
+        "norm_freq_corpus2": 105.31,
+        "log_likelihood": 185.48,
+        "chi_squared": 53.45,
+        "effect_size": 1136.18,
+        "favors": "corpus1"
+      },
+      {
+        "word": "insights",
+        "freq_corpus1": 315,
+        "freq_corpus2": 31,
+        "norm_freq_corpus1": 1353.19,
+        "norm_freq_corpus2": 217.64,
+        "log_likelihood": 152.11,
+        "chi_squared": 46.91,
+        "effect_size": 1135.54,
+        "favors": "corpus1"
+      },
+      {
+        "word": "industry",
+        "freq_corpus1": 346,
+        "freq_corpus2": 50,
+        "norm_freq_corpus1": 1486.36,
+        "norm_freq_corpus2": 351.03,
+        "log_likelihood": 126.88,
+        "chi_squared": 40.97,
+        "effect_size": 1135.32,
+        "favors": "corpus1"
+      },
+      {
+        "word": "cost",
+        "freq_corpus1": 398,
+        "freq_corpus2": 86,
+        "norm_freq_corpus1": 1709.74,
+        "norm_freq_corpus2": 603.78,
+        "log_likelihood": 93.72,
+        "chi_squared": 31.81,
+        "effect_size": 1105.96,
+        "favors": "corpus1"
+      },
+      {
+        "word": "bing",
+        "freq_corpus1": 259,
+        "freq_corpus2": 1,
+        "norm_freq_corpus1": 1112.62,
+        "norm_freq_corpus2": 7.02,
+        "log_likelihood": 236.11,
+        "chi_squared": 59.17,
+        "effect_size": 1105.6,
+        "favors": "corpus1"
+      },
+      {
+        "word": "experience",
+        "freq_corpus1": 474,
+        "freq_corpus2": 135,
+        "norm_freq_corpus1": 2036.22,
+        "norm_freq_corpus2": 947.79,
+        "log_likelihood": 69.76,
+        "chi_squared": 24.48,
+        "effect_size": 1088.43,
+        "favors": "corpus1"
+      },
+      {
+        "word": "company",
+        "freq_corpus1": 355,
+        "freq_corpus2": 64,
+        "norm_freq_corpus1": 1525.02,
+        "norm_freq_corpus2": 449.32,
+        "log_likelihood": 104.74,
+        "chi_squared": 34.76,
+        "effect_size": 1075.69,
+        "favors": "corpus1"
+      },
+      {
+        "word": "following",
+        "freq_corpus1": 485,
+        "freq_corpus2": 144,
+        "norm_freq_corpus1": 2083.48,
+        "norm_freq_corpus2": 1010.98,
+        "log_likelihood": 65.26,
+        "chi_squared": 23.02,
+        "effect_size": 1072.5,
+        "favors": "corpus1"
+      },
+      {
+        "word": "based",
+        "freq_corpus1": 520,
+        "freq_corpus2": 166,
+        "norm_freq_corpus1": 2233.83,
+        "norm_freq_corpus2": 1165.44,
+        "log_likelihood": 58.88,
+        "chi_squared": 20.94,
+        "effect_size": 1068.39,
+        "favors": "corpus1"
+      },
+      {
+        "word": "windows",
+        "freq_corpus1": 260,
+        "freq_corpus2": 10,
+        "norm_freq_corpus1": 1116.92,
+        "norm_freq_corpus2": 70.21,
+        "log_likelihood": 182.08,
+        "chi_squared": 51.07,
+        "effect_size": 1046.71,
+        "favors": "corpus1"
+      },
+      {
+        "word": "resources",
+        "freq_corpus1": 354,
+        "freq_corpus2": 75,
+        "norm_freq_corpus1": 1520.72,
+        "norm_freq_corpus2": 526.55,
+        "log_likelihood": 85.65,
+        "chi_squared": 29.0,
+        "effect_size": 994.17,
+        "favors": "corpus1"
+      },
+      {
+        "word": "choose",
+        "freq_corpus1": 332,
+        "freq_corpus2": 65,
+        "norm_freq_corpus1": 1426.21,
+        "norm_freq_corpus2": 456.35,
+        "log_likelihood": 88.95,
+        "chi_squared": 29.82,
+        "effect_size": 969.87,
+        "favors": "corpus1"
+      },
+      {
+        "word": "teams",
+        "freq_corpus1": 369,
+        "freq_corpus2": 88,
+        "norm_freq_corpus1": 1585.16,
+        "norm_freq_corpus2": 617.82,
+        "log_likelihood": 75.02,
+        "chi_squared": 25.77,
+        "effect_size": 967.34,
+        "favors": "corpus1"
+      },
+      {
+        "word": "learning",
+        "freq_corpus1": 292,
+        "freq_corpus2": 46,
+        "norm_freq_corpus1": 1254.38,
+        "norm_freq_corpus2": 322.95,
+        "log_likelihood": 99.0,
+        "chi_squared": 32.31,
+        "effect_size": 931.43,
+        "favors": "corpus1"
+      },
+      {
+        "word": "software",
+        "freq_corpus1": 299,
+        "freq_corpus2": 52,
+        "norm_freq_corpus1": 1284.45,
+        "norm_freq_corpus2": 365.08,
+        "log_likelihood": 91.75,
+        "chi_squared": 30.31,
+        "effect_size": 919.38,
+        "favors": "corpus1"
+      },
+      {
+        "word": "console",
+        "freq_corpus1": 224,
+        "freq_corpus2": 7,
+        "norm_freq_corpus1": 962.27,
+        "norm_freq_corpus2": 49.14,
+        "log_likelihood": 164.7,
+        "chi_squared": 45.43,
+        "effect_size": 913.12,
+        "favors": "corpus1"
+      },
+      {
+        "word": "products",
+        "freq_corpus1": 324,
+        "freq_corpus2": 69,
+        "norm_freq_corpus1": 1391.85,
+        "norm_freq_corpus2": 484.43,
+        "log_likelihood": 77.84,
+        "chi_squared": 26.37,
+        "effect_size": 907.42,
+        "favors": "corpus1"
+      },
+      {
+        "word": "name",
+        "freq_corpus1": 331,
+        "freq_corpus2": 75,
+        "norm_freq_corpus1": 1421.92,
+        "norm_freq_corpus2": 526.55,
+        "log_likelihood": 72.8,
+        "chi_squared": 24.85,
+        "effect_size": 895.37,
+        "favors": "corpus1"
+      },
+      {
+        "word": "agent",
+        "freq_corpus1": 364,
+        "freq_corpus2": 96,
+        "norm_freq_corpus1": 1563.68,
+        "norm_freq_corpus2": 673.99,
+        "log_likelihood": 62.28,
+        "chi_squared": 21.66,
+        "effect_size": 889.69,
+        "favors": "corpus1"
+      }
+    ],
+    "corpus2_distinctive": [
+      {
+        "word": "supabase",
+        "freq_corpus1": 0,
+        "freq_corpus2": 952,
+        "norm_freq_corpus1": 0.0,
+        "norm_freq_corpus2": 6683.7,
+        "log_likelihood": 1844.25,
+        "chi_squared": 590.61,
+        "effect_size": -6683.7,
+        "favors": "corpus2"
+      },
+      {
+        "word": "database",
+        "freq_corpus1": 195,
+        "freq_corpus2": 801,
+        "norm_freq_corpus1": 837.69,
+        "norm_freq_corpus2": 5623.58,
+        "log_likelihood": 752.87,
+        "chi_squared": 289.45,
+        "effect_size": -4785.89,
+        "favors": "corpus2"
+      },
+      {
+        "word": "like",
+        "freq_corpus1": 474,
+        "freq_corpus2": 881,
+        "norm_freq_corpus1": 2036.22,
+        "norm_freq_corpus2": 6185.23,
+        "log_likelihood": 405.01,
+        "chi_squared": 159.9,
+        "effect_size": -4149.01,
+        "favors": "corpus2"
+      },
+      {
+        "word": "perplexity",
+        "freq_corpus1": 1,
+        "freq_corpus2": 572,
+        "norm_freq_corpus1": 4.3,
+        "norm_freq_corpus2": 4015.84,
+        "log_likelihood": 1094.36,
+        "chi_squared": 353.49,
+        "effect_size": -4011.54,
+        "favors": "corpus2"
+      },
+      {
+        "word": "fly",
+        "freq_corpus1": 4,
+        "freq_corpus2": 511,
+        "norm_freq_corpus1": 17.18,
+        "norm_freq_corpus2": 3587.58,
+        "log_likelihood": 946.92,
+        "chi_squared": 311.55,
+        "effect_size": -3570.39,
+        "favors": "corpus2"
+      },
+      {
+        "word": "postgres",
+        "freq_corpus1": 40,
+        "freq_corpus2": 529,
+        "norm_freq_corpus1": 171.83,
+        "norm_freq_corpus2": 3713.95,
+        "log_likelihood": 773.47,
+        "chi_squared": 277.54,
+        "effect_size": -3542.12,
+        "favors": "corpus2"
+      },
+      {
+        "word": "app",
+        "freq_corpus1": 153,
+        "freq_corpus2": 498,
+        "norm_freq_corpus1": 657.26,
+        "norm_freq_corpus2": 3496.31,
+        "log_likelihood": 400.88,
+        "chi_squared": 155.84,
+        "effect_size": -2839.05,
+        "favors": "corpus2"
+      },
+      {
+        "word": "want",
+        "freq_corpus1": 174,
+        "freq_corpus2": 464,
+        "norm_freq_corpus1": 747.47,
+        "norm_freq_corpus2": 3257.6,
+        "log_likelihood": 317.34,
+        "chi_squared": 124.3,
+        "effect_size": -2510.13,
+        "favors": "corpus2"
+      },
+      {
+        "word": "get",
+        "freq_corpus1": 291,
+        "freq_corpus2": 507,
+        "norm_freq_corpus1": 1250.09,
+        "norm_freq_corpus2": 3559.49,
+        "log_likelihood": 212.97,
+        "chi_squared": 84.12,
+        "effect_size": -2309.41,
+        "favors": "corpus2"
+      },
+      {
+        "word": "code",
+        "freq_corpus1": 300,
+        "freq_corpus2": 486,
+        "norm_freq_corpus1": 1288.75,
+        "norm_freq_corpus2": 3412.06,
+        "log_likelihood": 182.75,
+        "chi_squared": 72.2,
+        "effect_size": -2123.31,
+        "favors": "corpus2"
+      },
+      {
+        "word": "any",
+        "freq_corpus1": 281,
+        "freq_corpus2": 473,
+        "norm_freq_corpus1": 1207.13,
+        "norm_freq_corpus2": 3320.79,
+        "log_likelihood": 188.78,
+        "chi_squared": 74.58,
+        "effect_size": -2113.66,
+        "favors": "corpus2"
+      },
+      {
+        "word": "run",
+        "freq_corpus1": 272,
+        "freq_corpus2": 456,
+        "norm_freq_corpus1": 1168.47,
+        "norm_freq_corpus2": 3201.44,
+        "log_likelihood": 180.88,
+        "chi_squared": 71.46,
+        "effect_size": -2032.97,
+        "favors": "corpus2"
+      },
+      {
+        "word": "project",
+        "freq_corpus1": 139,
+        "freq_corpus2": 334,
+        "norm_freq_corpus1": 597.12,
+        "norm_freq_corpus2": 2344.91,
+        "log_likelihood": 206.88,
+        "chi_squared": 81.29,
+        "effect_size": -1747.79,
+        "favors": "corpus2"
+      },
+      {
+        "word": "need",
+        "freq_corpus1": 412,
+        "freq_corpus2": 500,
+        "norm_freq_corpus1": 1769.88,
+        "norm_freq_corpus2": 3510.35,
+        "log_likelihood": 106.2,
+        "chi_squared": 41.81,
+        "effect_size": -1740.47,
+        "favors": "corpus2"
+      },
+      {
+        "word": "sqlite",
+        "freq_corpus1": 0,
+        "freq_corpus2": 244,
+        "norm_freq_corpus1": 0.0,
+        "norm_freq_corpus2": 1713.05,
+        "log_likelihood": 472.69,
+        "chi_squared": 151.38,
+        "effect_size": -1713.05,
+        "favors": "corpus2"
+      },
+      {
+        "word": "let",
+        "freq_corpus1": 82,
+        "freq_corpus2": 284,
+        "norm_freq_corpus1": 352.26,
+        "norm_freq_corpus2": 1993.88,
+        "log_likelihood": 239.06,
+        "chi_squared": 92.68,
+        "effect_size": -1641.62,
+        "favors": "corpus2"
+      },
+      {
+        "word": "make",
+        "freq_corpus1": 334,
+        "freq_corpus2": 437,
+        "norm_freq_corpus1": 1434.81,
+        "norm_freq_corpus2": 3068.04,
+        "log_likelihood": 110.45,
+        "chi_squared": 43.55,
+        "effect_size": -1633.24,
+        "favors": "corpus2"
+      },
+      {
+        "word": "first",
+        "freq_corpus1": 323,
+        "freq_corpus2": 428,
+        "norm_freq_corpus1": 1387.55,
+        "norm_freq_corpus2": 3004.86,
+        "log_likelihood": 111.16,
+        "chi_squared": 43.84,
+        "effect_size": -1617.31,
+        "favors": "corpus2"
+      },
+      {
+        "word": "users",
+        "freq_corpus1": 420,
+        "freq_corpus2": 481,
+        "norm_freq_corpus1": 1804.25,
+        "norm_freq_corpus2": 3376.96,
+        "log_likelihood": 87.91,
+        "chi_squared": 34.55,
+        "effect_size": -1572.71,
+        "favors": "corpus2"
+      },
+      {
+        "word": "even",
+        "freq_corpus1": 144,
+        "freq_corpus2": 312,
+        "norm_freq_corpus1": 618.6,
+        "norm_freq_corpus2": 2190.46,
+        "log_likelihood": 173.14,
+        "chi_squared": 68.2,
+        "effect_size": -1571.86,
+        "favors": "corpus2"
+      },
+      {
+        "word": "server",
+        "freq_corpus1": 283,
+        "freq_corpus2": 377,
+        "norm_freq_corpus1": 1215.72,
+        "norm_freq_corpus2": 2646.8,
+        "log_likelihood": 99.03,
+        "chi_squared": 39.06,
+        "effect_size": -1431.08,
+        "favors": "corpus2"
+      },
+      {
+        "word": "way",
+        "freq_corpus1": 224,
+        "freq_corpus2": 331,
+        "norm_freq_corpus1": 962.27,
+        "norm_freq_corpus2": 2323.85,
+        "log_likelihood": 106.47,
+        "chi_squared": 42.04,
+        "effect_size": -1361.59,
+        "favors": "corpus2"
+      },
+      {
+        "word": "write",
+        "freq_corpus1": 108,
+        "freq_corpus2": 256,
+        "norm_freq_corpus1": 463.95,
+        "norm_freq_corpus2": 1797.3,
+        "log_likelihood": 156.4,
+        "chi_squared": 61.47,
+        "effect_size": -1333.35,
+        "favors": "corpus2"
+      },
+      {
+        "word": "api",
+        "freq_corpus1": 336,
+        "freq_corpus2": 395,
+        "norm_freq_corpus1": 1443.4,
+        "norm_freq_corpus2": 2773.18,
+        "log_likelihood": 77.41,
+        "chi_squared": 30.45,
+        "effect_size": -1329.78,
+        "favors": "corpus2"
+      },
+      {
+        "word": "table",
+        "freq_corpus1": 138,
+        "freq_corpus2": 272,
+        "norm_freq_corpus1": 592.82,
+        "norm_freq_corpus2": 1909.63,
+        "log_likelihood": 134.92,
+        "chi_squared": 53.23,
+        "effect_size": -1316.81,
+        "favors": "corpus2"
+      },
+      {
+        "word": "tokens",
+        "freq_corpus1": 24,
+        "freq_corpus2": 201,
+        "norm_freq_corpus1": 103.1,
+        "norm_freq_corpus2": 1411.16,
+        "log_likelihood": 259.53,
+        "chi_squared": 95.71,
+        "effect_size": -1308.06,
+        "favors": "corpus2"
+      },
+      {
+        "word": "comet",
+        "freq_corpus1": 0,
+        "freq_corpus2": 178,
+        "norm_freq_corpus1": 0.0,
+        "norm_freq_corpus2": 1249.68,
+        "log_likelihood": 344.83,
+        "chi_squared": 110.43,
+        "effect_size": -1249.68,
+        "favors": "corpus2"
+      },
+      {
+        "word": "pro",
+        "freq_corpus1": 39,
+        "freq_corpus2": 199,
+        "norm_freq_corpus1": 167.54,
+        "norm_freq_corpus2": 1397.12,
+        "log_likelihood": 210.44,
+        "chi_squared": 79.95,
+        "effect_size": -1229.58,
+        "favors": "corpus2"
+      },
+      {
+        "word": "functions",
+        "freq_corpus1": 144,
+        "freq_corpus2": 262,
+        "norm_freq_corpus1": 618.6,
+        "norm_freq_corpus2": 1839.42,
+        "log_likelihood": 117.01,
+        "chi_squared": 46.2,
+        "effect_size": -1220.82,
+        "favors": "corpus2"
+      },
+      {
+        "word": "lot",
+        "freq_corpus1": 18,
+        "freq_corpus2": 184,
+        "norm_freq_corpus1": 77.32,
+        "norm_freq_corpus2": 1291.81,
+        "log_likelihood": 252.25,
+        "chi_squared": 91.9,
+        "effect_size": -1214.48,
+        "favors": "corpus2"
+      },
+      {
+        "word": "node",
+        "freq_corpus1": 28,
+        "freq_corpus2": 188,
+        "norm_freq_corpus1": 120.28,
+        "norm_freq_corpus2": 1319.89,
+        "log_likelihood": 224.32,
+        "chi_squared": 83.86,
+        "effect_size": -1199.61,
+        "favors": "corpus2"
+      },
+      {
+        "word": "file",
+        "freq_corpus1": 282,
+        "freq_corpus2": 338,
+        "norm_freq_corpus1": 1211.42,
+        "norm_freq_corpus2": 2373.0,
+        "log_likelihood": 69.6,
+        "chi_squared": 27.39,
+        "effect_size": -1161.57,
+        "favors": "corpus2"
+      },
+      {
+        "word": "start",
+        "freq_corpus1": 153,
+        "freq_corpus2": 258,
+        "norm_freq_corpus1": 657.26,
+        "norm_freq_corpus2": 1811.34,
+        "log_likelihood": 103.25,
+        "chi_squared": 40.79,
+        "effect_size": -1154.08,
+        "favors": "corpus2"
+      },
+      {
+        "word": "things",
+        "freq_corpus1": 64,
+        "freq_corpus2": 197,
+        "norm_freq_corpus1": 274.93,
+        "norm_freq_corpus2": 1383.08,
+        "log_likelihood": 151.98,
+        "chi_squared": 59.22,
+        "effect_size": -1108.14,
+        "favors": "corpus2"
+      },
+      {
+        "word": "page",
+        "freq_corpus1": 128,
+        "freq_corpus2": 236,
+        "norm_freq_corpus1": 549.87,
+        "norm_freq_corpus2": 1656.88,
+        "log_likelihood": 107.32,
+        "chi_squared": 42.38,
+        "effect_size": -1107.02,
+        "favors": "corpus2"
+      },
+      {
+        "word": "without",
+        "freq_corpus1": 206,
+        "freq_corpus2": 283,
+        "norm_freq_corpus1": 884.94,
+        "norm_freq_corpus2": 1986.86,
+        "log_likelihood": 79.21,
+        "chi_squared": 31.25,
+        "effect_size": -1101.92,
+        "favors": "corpus2"
+      },
+      {
+        "word": "token",
+        "freq_corpus1": 68,
+        "freq_corpus2": 198,
+        "norm_freq_corpus1": 292.12,
+        "norm_freq_corpus2": 1390.1,
+        "log_likelihood": 146.09,
+        "chi_squared": 57.04,
+        "effect_size": -1097.98,
+        "favors": "corpus2"
+      },
+      {
+        "word": "machines",
+        "freq_corpus1": 22,
+        "freq_corpus2": 167,
+        "norm_freq_corpus1": 94.51,
+        "norm_freq_corpus2": 1172.46,
+        "log_likelihood": 208.56,
+        "chi_squared": 77.38,
+        "effect_size": -1077.95,
+        "favors": "corpus2"
+      },
+      {
+        "word": "something",
+        "freq_corpus1": 36,
+        "freq_corpus2": 175,
+        "norm_freq_corpus1": 154.65,
+        "norm_freq_corpus2": 1228.62,
+        "log_likelihood": 180.59,
+        "chi_squared": 68.8,
+        "effect_size": -1073.97,
+        "favors": "corpus2"
+      },
+      {
+        "word": "read",
+        "freq_corpus1": 158,
+        "freq_corpus2": 245,
+        "norm_freq_corpus1": 678.74,
+        "norm_freq_corpus2": 1720.07,
+        "log_likelihood": 85.74,
+        "chi_squared": 33.87,
+        "effect_size": -1041.33,
+        "favors": "corpus2"
+      },
+      {
+        "word": "running",
+        "freq_corpus1": 172,
+        "freq_corpus2": 251,
+        "norm_freq_corpus1": 738.88,
+        "norm_freq_corpus2": 1762.19,
+        "log_likelihood": 78.91,
+        "chi_squared": 31.16,
+        "effect_size": -1023.31,
+        "favors": "corpus2"
+      },
+      {
+        "word": "gpu",
+        "freq_corpus1": 46,
+        "freq_corpus2": 173,
+        "norm_freq_corpus1": 197.61,
+        "norm_freq_corpus2": 1214.58,
+        "log_likelihood": 153.92,
+        "chi_squared": 59.44,
+        "effect_size": -1016.97,
+        "favors": "corpus2"
+      },
+      {
+        "word": "single",
+        "freq_corpus1": 152,
+        "freq_corpus2": 237,
+        "norm_freq_corpus1": 652.97,
+        "norm_freq_corpus2": 1663.91,
+        "log_likelihood": 83.71,
+        "chi_squared": 33.07,
+        "effect_size": -1010.94,
+        "favors": "corpus2"
+      },
+      {
+        "word": "features",
+        "freq_corpus1": 174,
+        "freq_corpus2": 246,
+        "norm_freq_corpus1": 747.47,
+        "norm_freq_corpus2": 1727.09,
+        "log_likelihood": 72.86,
+        "chi_squared": 28.76,
+        "effect_size": -979.62,
+        "favors": "corpus2"
+      },
+      {
+        "word": "function",
+        "freq_corpus1": 158,
+        "freq_corpus2": 236,
+        "norm_freq_corpus1": 678.74,
+        "norm_freq_corpus2": 1656.88,
+        "log_likelihood": 77.39,
+        "chi_squared": 30.56,
+        "effect_size": -978.14,
+        "favors": "corpus2"
+      },
+      {
+        "word": "set",
+        "freq_corpus1": 235,
+        "freq_corpus2": 283,
+        "norm_freq_corpus1": 1009.52,
+        "norm_freq_corpus2": 1986.86,
+        "log_likelihood": 58.97,
+        "chi_squared": 23.21,
+        "effect_size": -977.34,
+        "favors": "corpus2"
+      },
+      {
+        "word": "means",
+        "freq_corpus1": 70,
+        "freq_corpus2": 182,
+        "norm_freq_corpus1": 300.71,
+        "norm_freq_corpus2": 1277.77,
+        "log_likelihood": 121.63,
+        "chi_squared": 47.68,
+        "effect_size": -977.06,
+        "favors": "corpus2"
+      },
+      {
+        "word": "instead",
+        "freq_corpus1": 56,
+        "freq_corpus2": 173,
+        "norm_freq_corpus1": 240.57,
+        "norm_freq_corpus2": 1214.58,
+        "log_likelihood": 133.85,
+        "chi_squared": 52.14,
+        "effect_size": -974.01,
+        "favors": "corpus2"
+      },
+      {
+        "word": "memory",
+        "freq_corpus1": 58,
+        "freq_corpus2": 173,
+        "norm_freq_corpus1": 249.16,
+        "norm_freq_corpus2": 1214.58,
+        "log_likelihood": 130.17,
+        "chi_squared": 50.78,
+        "effect_size": -965.42,
+        "favors": "corpus2"
+      },
+      {
+        "word": "request",
+        "freq_corpus1": 123,
+        "freq_corpus2": 208,
+        "norm_freq_corpus1": 528.39,
+        "norm_freq_corpus2": 1460.3,
+        "log_likelihood": 83.6,
+        "chi_squared": 33.02,
+        "effect_size": -931.92,
+        "favors": "corpus2"
+      }
+    ],
+    "all_results": [
+      {
+        "word": "aws",
+        "freq_corpus1": 2812,
+        "freq_corpus2": 101,
+        "norm_freq_corpus1": 12079.87,
+        "norm_freq_corpus2": 709.09,
+        "log_likelihood": 2003.02,
+        "chi_squared": 558.66,
+        "effect_size": 11370.78,
+        "favors": "corpus1"
+      },
+      {
+        "word": "microsoft",
+        "freq_corpus1": 1998,
+        "freq_corpus2": 10,
+        "norm_freq_corpus1": 8583.06,
+        "norm_freq_corpus2": 70.21,
+        "log_likelihood": 1801.07,
+        "chi_squared": 454.25,
+        "effect_size": 8512.86,
+        "favors": "corpus1"
+      },
+      {
+        "word": "supabase",
+        "freq_corpus1": 0,
+        "freq_corpus2": 952,
+        "norm_freq_corpus1": 0.0,
+        "norm_freq_corpus2": 6683.7,
+        "log_likelihood": 1844.25,
+        "chi_squared": 590.61,
+        "effect_size": -6683.7,
+        "favors": "corpus2"
+      },
+      {
+        "word": "amazon",
+        "freq_corpus1": 1420,
+        "freq_corpus2": 39,
+        "norm_freq_corpus1": 6100.08,
+        "norm_freq_corpus2": 273.81,
+        "log_likelihood": 1071.91,
+        "chi_squared": 292.84,
+        "effect_size": 5826.27,
+        "favors": "corpus1"
+      },
+      {
+        "word": "data",
+        "freq_corpus1": 2630,
+        "freq_corpus2": 833,
+        "norm_freq_corpus1": 11298.03,
+        "norm_freq_corpus2": 5848.24,
+        "log_likelihood": 303.74,
+        "chi_squared": 107.95,
+        "effect_size": 5449.79,
+        "favors": "corpus1"
+      },
+      {
+        "word": "copilot",
+        "freq_corpus1": 1146,
+        "freq_corpus2": 15,
+        "norm_freq_corpus1": 4923.02,
+        "norm_freq_corpus2": 105.31,
+        "log_likelihood": 962.99,
+        "chi_squared": 251.63,
+        "effect_size": 4817.71,
+        "favors": "corpus1"
+      },
+      {
+        "word": "database",
+        "freq_corpus1": 195,
+        "freq_corpus2": 801,
+        "norm_freq_corpus1": 837.69,
+        "norm_freq_corpus2": 5623.58,
+        "log_likelihood": 752.87,
+        "chi_squared": 289.45,
+        "effect_size": -4785.89,
+        "favors": "corpus2"
+      },
+      {
+        "word": "like",
+        "freq_corpus1": 474,
+        "freq_corpus2": 881,
+        "norm_freq_corpus1": 2036.22,
+        "norm_freq_corpus2": 6185.23,
+        "log_likelihood": 405.01,
+        "chi_squared": 159.9,
+        "effect_size": -4149.01,
+        "favors": "corpus2"
+      },
+      {
+        "word": "perplexity",
+        "freq_corpus1": 1,
+        "freq_corpus2": 572,
+        "norm_freq_corpus1": 4.3,
+        "norm_freq_corpus2": 4015.84,
+        "log_likelihood": 1094.36,
+        "chi_squared": 353.49,
+        "effect_size": -4011.54,
+        "favors": "corpus2"
+      },
+      {
+        "word": "cloud",
+        "freq_corpus1": 1059,
+        "freq_corpus2": 119,
+        "norm_freq_corpus1": 4549.28,
+        "norm_freq_corpus2": 835.46,
+        "log_likelihood": 470.51,
+        "chi_squared": 147.37,
+        "effect_size": 3713.82,
+        "favors": "corpus1"
+      },
+      {
+        "word": "fly",
+        "freq_corpus1": 4,
+        "freq_corpus2": 511,
+        "norm_freq_corpus1": 17.18,
+        "norm_freq_corpus2": 3587.58,
+        "log_likelihood": 946.92,
+        "chi_squared": 311.55,
+        "effect_size": -3570.39,
+        "favors": "corpus2"
+      },
+      {
+        "word": "postgres",
+        "freq_corpus1": 40,
+        "freq_corpus2": 529,
+        "norm_freq_corpus1": 171.83,
+        "norm_freq_corpus2": 3713.95,
+        "log_likelihood": 773.47,
+        "chi_squared": 277.54,
+        "effect_size": -3542.12,
+        "favors": "corpus2"
+      },
+      {
+        "word": "customers",
+        "freq_corpus1": 972,
+        "freq_corpus2": 114,
+        "norm_freq_corpus1": 4175.54,
+        "norm_freq_corpus2": 800.36,
+        "log_likelihood": 419.4,
+        "chi_squared": 132.03,
+        "effect_size": 3375.19,
+        "favors": "corpus1"
+      },
+      {
+        "word": "azure",
+        "freq_corpus1": 754,
+        "freq_corpus2": 4,
+        "norm_freq_corpus1": 3239.05,
+        "norm_freq_corpus2": 28.08,
+        "log_likelihood": 677.74,
+        "chi_squared": 171.2,
+        "effect_size": 3210.97,
+        "favors": "corpus1"
+      },
+      {
+        "word": "solutions",
+        "freq_corpus1": 752,
+        "freq_corpus2": 21,
+        "norm_freq_corpus1": 3230.46,
+        "norm_freq_corpus2": 147.43,
+        "log_likelihood": 565.83,
+        "chi_squared": 154.77,
+        "effect_size": 3083.03,
+        "favors": "corpus1"
+      },
+      {
+        "word": "app",
+        "freq_corpus1": 153,
+        "freq_corpus2": 498,
+        "norm_freq_corpus1": 657.26,
+        "norm_freq_corpus2": 3496.31,
+        "log_likelihood": 400.88,
+        "chi_squared": 155.84,
+        "effect_size": -2839.05,
+        "favors": "corpus2"
+      },
+      {
+        "word": "service",
+        "freq_corpus1": 916,
+        "freq_corpus2": 160,
+        "norm_freq_corpus1": 3934.98,
+        "norm_freq_corpus2": 1123.31,
+        "log_likelihood": 279.76,
+        "chi_squared": 92.47,
+        "effect_size": 2811.67,
+        "favors": "corpus1"
+      },
+      {
+        "word": "business",
+        "freq_corpus1": 758,
+        "freq_corpus2": 89,
+        "norm_freq_corpus1": 3256.24,
+        "norm_freq_corpus2": 624.84,
+        "log_likelihood": 326.81,
+        "chi_squared": 102.9,
+        "effect_size": 2631.4,
+        "favors": "corpus1"
+      },
+      {
+        "word": "want",
+        "freq_corpus1": 174,
+        "freq_corpus2": 464,
+        "norm_freq_corpus1": 747.47,
+        "norm_freq_corpus2": 3257.6,
+        "log_likelihood": 317.34,
+        "chi_squared": 124.3,
+        "effect_size": -2510.13,
+        "favors": "corpus2"
+      },
+      {
+        "word": "services",
+        "freq_corpus1": 720,
+        "freq_corpus2": 98,
+        "norm_freq_corpus1": 3093.0,
+        "norm_freq_corpus2": 688.03,
+        "log_likelihood": 277.66,
+        "chi_squared": 89.0,
+        "effect_size": 2404.97,
+        "favors": "corpus1"
+      },
+      {
+        "word": "get",
+        "freq_corpus1": 291,
+        "freq_corpus2": 507,
+        "norm_freq_corpus1": 1250.09,
+        "norm_freq_corpus2": 3559.49,
+        "log_likelihood": 212.97,
+        "chi_squared": 84.12,
+        "effect_size": -2309.41,
+        "favors": "corpus2"
+      },
+      {
+        "word": "code",
+        "freq_corpus1": 300,
+        "freq_corpus2": 486,
+        "norm_freq_corpus1": 1288.75,
+        "norm_freq_corpus2": 3412.06,
+        "log_likelihood": 182.75,
+        "chi_squared": 72.2,
+        "effect_size": -2123.31,
+        "favors": "corpus2"
+      },
+      {
+        "word": "any",
+        "freq_corpus1": 281,
+        "freq_corpus2": 473,
+        "norm_freq_corpus1": 1207.13,
+        "norm_freq_corpus2": 3320.79,
+        "log_likelihood": 188.78,
+        "chi_squared": 74.58,
+        "effect_size": -2113.66,
+        "favors": "corpus2"
+      },
+      {
+        "word": "solution",
+        "freq_corpus1": 558,
+        "freq_corpus2": 51,
+        "norm_freq_corpus1": 2397.07,
+        "norm_freq_corpus2": 358.06,
+        "log_likelihood": 281.02,
+        "chi_squared": 85.93,
+        "effect_size": 2039.02,
+        "favors": "corpus1"
+      },
+      {
+        "word": "run",
+        "freq_corpus1": 272,
+        "freq_corpus2": 456,
+        "norm_freq_corpus1": 1168.47,
+        "norm_freq_corpus2": 3201.44,
+        "log_likelihood": 180.88,
+        "chi_squared": 71.46,
+        "effect_size": -2032.97,
+        "favors": "corpus2"
+      },
+      {
+        "word": "customer",
+        "freq_corpus1": 547,
+        "freq_corpus2": 64,
+        "norm_freq_corpus1": 2349.82,
+        "norm_freq_corpus2": 449.32,
+        "log_likelihood": 236.42,
+        "chi_squared": 74.4,
+        "effect_size": 1900.49,
+        "favors": "corpus1"
+      },
+      {
+        "word": "organizations",
+        "freq_corpus1": 474,
+        "freq_corpus2": 32,
+        "norm_freq_corpus1": 2036.22,
+        "norm_freq_corpus2": 224.66,
+        "log_likelihood": 275.94,
+        "chi_squared": 81.63,
+        "effect_size": 1811.56,
+        "favors": "corpus1"
+      },
+      {
+        "word": "help",
+        "freq_corpus1": 658,
+        "freq_corpus2": 146,
+        "norm_freq_corpus1": 2826.65,
+        "norm_freq_corpus2": 1025.02,
+        "log_likelihood": 149.23,
+        "chi_squared": 50.81,
+        "effect_size": 1801.63,
+        "favors": "corpus1"
+      },
+      {
+        "word": "project",
+        "freq_corpus1": 139,
+        "freq_corpus2": 334,
+        "norm_freq_corpus1": 597.12,
+        "norm_freq_corpus2": 2344.91,
+        "log_likelihood": 206.88,
+        "chi_squared": 81.29,
+        "effect_size": -1747.79,
+        "favors": "corpus2"
+      },
+      {
+        "word": "need",
+        "freq_corpus1": 412,
+        "freq_corpus2": 500,
+        "norm_freq_corpus1": 1769.88,
+        "norm_freq_corpus2": 3510.35,
+        "log_likelihood": 106.2,
+        "chi_squared": 41.81,
+        "effect_size": -1740.47,
+        "favors": "corpus2"
+      },
+      {
+        "word": "account",
+        "freq_corpus1": 491,
+        "freq_corpus2": 56,
+        "norm_freq_corpus1": 2109.25,
+        "norm_freq_corpus2": 393.16,
+        "log_likelihood": 215.97,
+        "chi_squared": 67.76,
+        "effect_size": 1716.09,
+        "favors": "corpus1"
+      },
+      {
+        "word": "sqlite",
+        "freq_corpus1": 0,
+        "freq_corpus2": 244,
+        "norm_freq_corpus1": 0.0,
+        "norm_freq_corpus2": 1713.05,
+        "log_likelihood": 472.69,
+        "chi_squared": 151.38,
+        "effect_size": -1713.05,
+        "favors": "corpus2"
+      },
+      {
+        "word": "let",
+        "freq_corpus1": 82,
+        "freq_corpus2": 284,
+        "norm_freq_corpus1": 352.26,
+        "norm_freq_corpus2": 1993.88,
+        "log_likelihood": 239.06,
+        "chi_squared": 92.68,
+        "effect_size": -1641.62,
+        "favors": "corpus2"
+      },
+      {
+        "word": "make",
+        "freq_corpus1": 334,
+        "freq_corpus2": 437,
+        "norm_freq_corpus1": 1434.81,
+        "norm_freq_corpus2": 3068.04,
+        "log_likelihood": 110.45,
+        "chi_squared": 43.55,
+        "effect_size": -1633.24,
+        "favors": "corpus2"
+      },
+      {
+        "word": "partners",
+        "freq_corpus1": 443,
+        "freq_corpus2": 39,
+        "norm_freq_corpus1": 1903.05,
+        "norm_freq_corpus2": 273.81,
+        "log_likelihood": 227.65,
+        "chi_squared": 69.32,
+        "effect_size": 1629.24,
+        "favors": "corpus1"
+      },
+      {
+        "word": "first",
+        "freq_corpus1": 323,
+        "freq_corpus2": 428,
+        "norm_freq_corpus1": 1387.55,
+        "norm_freq_corpus2": 3004.86,
+        "log_likelihood": 111.16,
+        "chi_squared": 43.84,
+        "effect_size": -1617.31,
+        "favors": "corpus2"
+      },
+      {
+        "word": "capabilities",
+        "freq_corpus1": 510,
+        "freq_corpus2": 83,
+        "norm_freq_corpus1": 2190.87,
+        "norm_freq_corpus2": 582.72,
+        "log_likelihood": 167.53,
+        "chi_squared": 54.89,
+        "effect_size": 1608.15,
+        "favors": "corpus1"
+      },
+      {
+        "word": "users",
+        "freq_corpus1": 420,
+        "freq_corpus2": 481,
+        "norm_freq_corpus1": 1804.25,
+        "norm_freq_corpus2": 3376.96,
+        "log_likelihood": 87.91,
+        "chi_squared": 34.55,
+        "effect_size": -1572.71,
+        "favors": "corpus2"
+      },
+      {
+        "word": "even",
+        "freq_corpus1": 144,
+        "freq_corpus2": 312,
+        "norm_freq_corpus1": 618.6,
+        "norm_freq_corpus2": 2190.46,
+        "log_likelihood": 173.14,
+        "chi_squared": 68.2,
+        "effect_size": -1571.86,
+        "favors": "corpus2"
+      },
+      {
+        "word": "security",
+        "freq_corpus1": 784,
+        "freq_corpus2": 260,
+        "norm_freq_corpus1": 3367.93,
+        "norm_freq_corpus2": 1825.38,
+        "log_likelihood": 80.29,
+        "chi_squared": 28.69,
+        "effect_size": 1542.55,
+        "favors": "corpus1"
+      },
+      {
+        "word": "management",
+        "freq_corpus1": 444,
+        "freq_corpus2": 53,
+        "norm_freq_corpus1": 1907.35,
+        "norm_freq_corpus2": 372.1,
+        "log_likelihood": 189.21,
+        "chi_squared": 59.69,
+        "effect_size": 1535.25,
+        "favors": "corpus1"
+      },
+      {
+        "word": "partner",
+        "freq_corpus1": 399,
+        "freq_corpus2": 27,
+        "norm_freq_corpus1": 1714.04,
+        "norm_freq_corpus2": 189.56,
+        "log_likelihood": 232.06,
+        "chi_squared": 68.67,
+        "effect_size": 1524.48,
+        "favors": "corpus1"
+      },
+      {
+        "word": "innovation",
+        "freq_corpus1": 391,
+        "freq_corpus2": 25,
+        "norm_freq_corpus1": 1679.67,
+        "norm_freq_corpus2": 175.52,
+        "log_likelihood": 232.7,
+        "chi_squared": 68.45,
+        "effect_size": 1504.15,
+        "favors": "corpus1"
+      },
+      {
+        "word": "across",
+        "freq_corpus1": 743,
+        "freq_corpus2": 248,
+        "norm_freq_corpus1": 3191.8,
+        "norm_freq_corpus2": 1741.13,
+        "log_likelihood": 74.76,
+        "chi_squared": 26.73,
+        "effect_size": 1450.67,
+        "favors": "corpus1"
+      },
+      {
+        "word": "server",
+        "freq_corpus1": 283,
+        "freq_corpus2": 377,
+        "norm_freq_corpus1": 1215.72,
+        "norm_freq_corpus2": 2646.8,
+        "log_likelihood": 99.03,
+        "chi_squared": 39.06,
+        "effect_size": -1431.08,
+        "favors": "corpus2"
+      },
+      {
+        "word": "way",
+        "freq_corpus1": 224,
+        "freq_corpus2": 331,
+        "norm_freq_corpus1": 962.27,
+        "norm_freq_corpus2": 2323.85,
+        "log_likelihood": 106.47,
+        "chi_squared": 42.04,
+        "effect_size": -1361.59,
+        "favors": "corpus2"
+      },
+      {
+        "word": "digital",
+        "freq_corpus1": 354,
+        "freq_corpus2": 23,
+        "norm_freq_corpus1": 1520.72,
+        "norm_freq_corpus2": 161.48,
+        "log_likelihood": 209.34,
+        "chi_squared": 61.68,
+        "effect_size": 1359.25,
+        "favors": "corpus1"
+      },
+      {
+        "word": "write",
+        "freq_corpus1": 108,
+        "freq_corpus2": 256,
+        "norm_freq_corpus1": 463.95,
+        "norm_freq_corpus2": 1797.3,
+        "log_likelihood": 156.4,
+        "chi_squared": 61.47,
+        "effect_size": -1333.35,
+        "favors": "corpus2"
+      },
+      {
+        "word": "api",
+        "freq_corpus1": 336,
+        "freq_corpus2": 395,
+        "norm_freq_corpus1": 1443.4,
+        "norm_freq_corpus2": 2773.18,
+        "log_likelihood": 77.41,
+        "chi_squared": 30.45,
+        "effect_size": -1329.78,
+        "favors": "corpus2"
+      },
+      {
+        "word": "sagemaker",
+        "freq_corpus1": 309,
+        "freq_corpus2": 1,
+        "norm_freq_corpus1": 1327.41,
+        "norm_freq_corpus2": 7.02,
+        "log_likelihood": 283.5,
+        "chi_squared": 70.79,
+        "effect_size": 1320.39,
+        "favors": "corpus1"
+      },
+      {
+        "word": "table",
+        "freq_corpus1": 138,
+        "freq_corpus2": 272,
+        "norm_freq_corpus1": 592.82,
+        "norm_freq_corpus2": 1909.63,
+        "log_likelihood": 134.92,
+        "chi_squared": 53.23,
+        "effect_size": -1316.81,
+        "favors": "corpus2"
+      },
+      {
+        "word": "tokens",
+        "freq_corpus1": 24,
+        "freq_corpus2": 201,
+        "norm_freq_corpus1": 103.1,
+        "norm_freq_corpus2": 1411.16,
+        "log_likelihood": 259.53,
+        "chi_squared": 95.71,
+        "effect_size": -1308.06,
+        "favors": "corpus2"
+      },
+      {
+        "word": "employees",
+        "freq_corpus1": 319,
+        "freq_corpus2": 16,
+        "norm_freq_corpus1": 1370.37,
+        "norm_freq_corpus2": 112.33,
+        "log_likelihood": 207.03,
+        "chi_squared": 59.46,
+        "effect_size": 1258.04,
+        "favors": "corpus1"
+      },
+      {
+        "word": "comet",
+        "freq_corpus1": 0,
+        "freq_corpus2": 178,
+        "norm_freq_corpus1": 0.0,
+        "norm_freq_corpus2": 1249.68,
+        "log_likelihood": 344.83,
+        "chi_squared": 110.43,
+        "effect_size": -1249.68,
+        "favors": "corpus2"
+      },
+      {
+        "word": "region",
+        "freq_corpus1": 380,
+        "freq_corpus2": 55,
+        "norm_freq_corpus1": 1632.41,
+        "norm_freq_corpus2": 386.14,
+        "log_likelihood": 139.16,
+        "chi_squared": 44.94,
+        "effect_size": 1246.28,
+        "favors": "corpus1"
+      },
+      {
+        "word": "quantum",
+        "freq_corpus1": 294,
+        "freq_corpus2": 4,
+        "norm_freq_corpus1": 1262.97,
+        "norm_freq_corpus2": 28.08,
+        "log_likelihood": 246.03,
+        "chi_squared": 64.41,
+        "effect_size": 1234.89,
+        "favors": "corpus1"
+      },
+      {
+        "word": "pro",
+        "freq_corpus1": 39,
+        "freq_corpus2": 199,
+        "norm_freq_corpus1": 167.54,
+        "norm_freq_corpus2": 1397.12,
+        "log_likelihood": 210.44,
+        "chi_squared": 79.95,
+        "effect_size": -1229.58,
+        "favors": "corpus2"
+      },
+      {
+        "word": "functions",
+        "freq_corpus1": 144,
+        "freq_corpus2": 262,
+        "norm_freq_corpus1": 618.6,
+        "norm_freq_corpus2": 1839.42,
+        "log_likelihood": 117.01,
+        "chi_squared": 46.2,
+        "effect_size": -1220.82,
+        "favors": "corpus2"
+      },
+      {
+        "word": "lot",
+        "freq_corpus1": 18,
+        "freq_corpus2": 184,
+        "norm_freq_corpus1": 77.32,
+        "norm_freq_corpus2": 1291.81,
+        "log_likelihood": 252.25,
+        "chi_squared": 91.9,
+        "effect_size": -1214.48,
+        "favors": "corpus2"
+      },
+      {
+        "word": "technology",
+        "freq_corpus1": 396,
+        "freq_corpus2": 71,
+        "norm_freq_corpus1": 1701.15,
+        "norm_freq_corpus2": 498.47,
+        "log_likelihood": 117.56,
+        "chi_squared": 38.98,
+        "effect_size": 1202.68,
+        "favors": "corpus1"
+      },
+      {
+        "word": "node",
+        "freq_corpus1": 28,
+        "freq_corpus2": 188,
+        "norm_freq_corpus1": 120.28,
+        "norm_freq_corpus2": 1319.89,
+        "log_likelihood": 224.32,
+        "chi_squared": 83.86,
+        "effect_size": -1199.61,
+        "favors": "corpus2"
+      },
+      {
+        "word": "file",
+        "freq_corpus1": 282,
+        "freq_corpus2": 338,
+        "norm_freq_corpus1": 1211.42,
+        "norm_freq_corpus2": 2373.0,
+        "log_likelihood": 69.6,
+        "chi_squared": 27.39,
+        "effect_size": -1161.57,
+        "favors": "corpus2"
+      },
+      {
+        "word": "resource",
+        "freq_corpus1": 334,
+        "freq_corpus2": 39,
+        "norm_freq_corpus1": 1434.81,
+        "norm_freq_corpus2": 273.81,
+        "log_likelihood": 144.56,
+        "chi_squared": 45.48,
+        "effect_size": 1161.0,
+        "favors": "corpus1"
+      },
+      {
+        "word": "start",
+        "freq_corpus1": 153,
+        "freq_corpus2": 258,
+        "norm_freq_corpus1": 657.26,
+        "norm_freq_corpus2": 1811.34,
+        "log_likelihood": 103.25,
+        "chi_squared": 40.79,
+        "effect_size": -1154.08,
+        "favors": "corpus2"
+      },
+      {
+        "word": "generative",
+        "freq_corpus1": 289,
+        "freq_corpus2": 15,
+        "norm_freq_corpus1": 1241.49,
+        "norm_freq_corpus2": 105.31,
+        "log_likelihood": 185.48,
+        "chi_squared": 53.45,
+        "effect_size": 1136.18,
+        "favors": "corpus1"
+      },
+      {
+        "word": "insights",
+        "freq_corpus1": 315,
+        "freq_corpus2": 31,
+        "norm_freq_corpus1": 1353.19,
+        "norm_freq_corpus2": 217.64,
+        "log_likelihood": 152.11,
+        "chi_squared": 46.91,
+        "effect_size": 1135.54,
+        "favors": "corpus1"
+      },
+      {
+        "word": "industry",
+        "freq_corpus1": 346,
+        "freq_corpus2": 50,
+        "norm_freq_corpus1": 1486.36,
+        "norm_freq_corpus2": 351.03,
+        "log_likelihood": 126.88,
+        "chi_squared": 40.97,
+        "effect_size": 1135.32,
+        "favors": "corpus1"
+      },
+      {
+        "word": "things",
+        "freq_corpus1": 64,
+        "freq_corpus2": 197,
+        "norm_freq_corpus1": 274.93,
+        "norm_freq_corpus2": 1383.08,
+        "log_likelihood": 151.98,
+        "chi_squared": 59.22,
+        "effect_size": -1108.14,
+        "favors": "corpus2"
+      },
+      {
+        "word": "page",
+        "freq_corpus1": 128,
+        "freq_corpus2": 236,
+        "norm_freq_corpus1": 549.87,
+        "norm_freq_corpus2": 1656.88,
+        "log_likelihood": 107.32,
+        "chi_squared": 42.38,
+        "effect_size": -1107.02,
+        "favors": "corpus2"
+      },
+      {
+        "word": "cost",
+        "freq_corpus1": 398,
+        "freq_corpus2": 86,
+        "norm_freq_corpus1": 1709.74,
+        "norm_freq_corpus2": 603.78,
+        "log_likelihood": 93.72,
+        "chi_squared": 31.81,
+        "effect_size": 1105.96,
+        "favors": "corpus1"
+      },
+      {
+        "word": "bing",
+        "freq_corpus1": 259,
+        "freq_corpus2": 1,
+        "norm_freq_corpus1": 1112.62,
+        "norm_freq_corpus2": 7.02,
+        "log_likelihood": 236.11,
+        "chi_squared": 59.17,
+        "effect_size": 1105.6,
+        "favors": "corpus1"
+      },
+      {
+        "word": "without",
+        "freq_corpus1": 206,
+        "freq_corpus2": 283,
+        "norm_freq_corpus1": 884.94,
+        "norm_freq_corpus2": 1986.86,
+        "log_likelihood": 79.21,
+        "chi_squared": 31.25,
+        "effect_size": -1101.92,
+        "favors": "corpus2"
+      },
+      {
+        "word": "token",
+        "freq_corpus1": 68,
+        "freq_corpus2": 198,
+        "norm_freq_corpus1": 292.12,
+        "norm_freq_corpus2": 1390.1,
+        "log_likelihood": 146.09,
+        "chi_squared": 57.04,
+        "effect_size": -1097.98,
+        "favors": "corpus2"
+      },
+      {
+        "word": "experience",
+        "freq_corpus1": 474,
+        "freq_corpus2": 135,
+        "norm_freq_corpus1": 2036.22,
+        "norm_freq_corpus2": 947.79,
+        "log_likelihood": 69.76,
+        "chi_squared": 24.48,
+        "effect_size": 1088.43,
+        "favors": "corpus1"
+      },
+      {
+        "word": "machines",
+        "freq_corpus1": 22,
+        "freq_corpus2": 167,
+        "norm_freq_corpus1": 94.51,
+        "norm_freq_corpus2": 1172.46,
+        "log_likelihood": 208.56,
+        "chi_squared": 77.38,
+        "effect_size": -1077.95,
+        "favors": "corpus2"
+      },
+      {
+        "word": "company",
+        "freq_corpus1": 355,
+        "freq_corpus2": 64,
+        "norm_freq_corpus1": 1525.02,
+        "norm_freq_corpus2": 449.32,
+        "log_likelihood": 104.74,
+        "chi_squared": 34.76,
+        "effect_size": 1075.69,
+        "favors": "corpus1"
+      },
+      {
+        "word": "something",
+        "freq_corpus1": 36,
+        "freq_corpus2": 175,
+        "norm_freq_corpus1": 154.65,
+        "norm_freq_corpus2": 1228.62,
+        "log_likelihood": 180.59,
+        "chi_squared": 68.8,
+        "effect_size": -1073.97,
+        "favors": "corpus2"
+      },
+      {
+        "word": "following",
+        "freq_corpus1": 485,
+        "freq_corpus2": 144,
+        "norm_freq_corpus1": 2083.48,
+        "norm_freq_corpus2": 1010.98,
+        "log_likelihood": 65.26,
+        "chi_squared": 23.02,
+        "effect_size": 1072.5,
+        "favors": "corpus1"
+      },
+      {
+        "word": "based",
+        "freq_corpus1": 520,
+        "freq_corpus2": 166,
+        "norm_freq_corpus1": 2233.83,
+        "norm_freq_corpus2": 1165.44,
+        "log_likelihood": 58.88,
+        "chi_squared": 20.94,
+        "effect_size": 1068.39,
+        "favors": "corpus1"
+      },
+      {
+        "word": "windows",
+        "freq_corpus1": 260,
+        "freq_corpus2": 10,
+        "norm_freq_corpus1": 1116.92,
+        "norm_freq_corpus2": 70.21,
+        "log_likelihood": 182.08,
+        "chi_squared": 51.07,
+        "effect_size": 1046.71,
+        "favors": "corpus1"
+      },
+      {
+        "word": "read",
+        "freq_corpus1": 158,
+        "freq_corpus2": 245,
+        "norm_freq_corpus1": 678.74,
+        "norm_freq_corpus2": 1720.07,
+        "log_likelihood": 85.74,
+        "chi_squared": 33.87,
+        "effect_size": -1041.33,
+        "favors": "corpus2"
+      },
+      {
+        "word": "running",
+        "freq_corpus1": 172,
+        "freq_corpus2": 251,
+        "norm_freq_corpus1": 738.88,
+        "norm_freq_corpus2": 1762.19,
+        "log_likelihood": 78.91,
+        "chi_squared": 31.16,
+        "effect_size": -1023.31,
+        "favors": "corpus2"
+      },
+      {
+        "word": "gpu",
+        "freq_corpus1": 46,
+        "freq_corpus2": 173,
+        "norm_freq_corpus1": 197.61,
+        "norm_freq_corpus2": 1214.58,
+        "log_likelihood": 153.92,
+        "chi_squared": 59.44,
+        "effect_size": -1016.97,
+        "favors": "corpus2"
+      },
+      {
+        "word": "single",
+        "freq_corpus1": 152,
+        "freq_corpus2": 237,
+        "norm_freq_corpus1": 652.97,
+        "norm_freq_corpus2": 1663.91,
+        "log_likelihood": 83.71,
+        "chi_squared": 33.07,
+        "effect_size": -1010.94,
+        "favors": "corpus2"
+      },
+      {
+        "word": "resources",
+        "freq_corpus1": 354,
+        "freq_corpus2": 75,
+        "norm_freq_corpus1": 1520.72,
+        "norm_freq_corpus2": 526.55,
+        "log_likelihood": 85.65,
+        "chi_squared": 29.0,
+        "effect_size": 994.17,
+        "favors": "corpus1"
+      },
+      {
+        "word": "features",
+        "freq_corpus1": 174,
+        "freq_corpus2": 246,
+        "norm_freq_corpus1": 747.47,
+        "norm_freq_corpus2": 1727.09,
+        "log_likelihood": 72.86,
+        "chi_squared": 28.76,
+        "effect_size": -979.62,
+        "favors": "corpus2"
+      },
+      {
+        "word": "function",
+        "freq_corpus1": 158,
+        "freq_corpus2": 236,
+        "norm_freq_corpus1": 678.74,
+        "norm_freq_corpus2": 1656.88,
+        "log_likelihood": 77.39,
+        "chi_squared": 30.56,
+        "effect_size": -978.14,
+        "favors": "corpus2"
+      },
+      {
+        "word": "set",
+        "freq_corpus1": 235,
+        "freq_corpus2": 283,
+        "norm_freq_corpus1": 1009.52,
+        "norm_freq_corpus2": 1986.86,
+        "log_likelihood": 58.97,
+        "chi_squared": 23.21,
+        "effect_size": -977.34,
+        "favors": "corpus2"
+      },
+      {
+        "word": "means",
+        "freq_corpus1": 70,
+        "freq_corpus2": 182,
+        "norm_freq_corpus1": 300.71,
+        "norm_freq_corpus2": 1277.77,
+        "log_likelihood": 121.63,
+        "chi_squared": 47.68,
+        "effect_size": -977.06,
+        "favors": "corpus2"
+      },
+      {
+        "word": "instead",
+        "freq_corpus1": 56,
+        "freq_corpus2": 173,
+        "norm_freq_corpus1": 240.57,
+        "norm_freq_corpus2": 1214.58,
+        "log_likelihood": 133.85,
+        "chi_squared": 52.14,
+        "effect_size": -974.01,
+        "favors": "corpus2"
+      },
+      {
+        "word": "choose",
+        "freq_corpus1": 332,
+        "freq_corpus2": 65,
+        "norm_freq_corpus1": 1426.21,
+        "norm_freq_corpus2": 456.35,
+        "log_likelihood": 88.95,
+        "chi_squared": 29.82,
+        "effect_size": 969.87,
+        "favors": "corpus1"
+      },
+      {
+        "word": "teams",
+        "freq_corpus1": 369,
+        "freq_corpus2": 88,
+        "norm_freq_corpus1": 1585.16,
+        "norm_freq_corpus2": 617.82,
+        "log_likelihood": 75.02,
+        "chi_squared": 25.77,
+        "effect_size": 967.34,
+        "favors": "corpus1"
+      },
+      {
+        "word": "memory",
+        "freq_corpus1": 58,
+        "freq_corpus2": 173,
+        "norm_freq_corpus1": 249.16,
+        "norm_freq_corpus2": 1214.58,
+        "log_likelihood": 130.17,
+        "chi_squared": 50.78,
+        "effect_size": -965.42,
+        "favors": "corpus2"
+      },
+      {
+        "word": "request",
+        "freq_corpus1": 123,
+        "freq_corpus2": 208,
+        "norm_freq_corpus1": 528.39,
+        "norm_freq_corpus2": 1460.3,
+        "log_likelihood": 83.6,
+        "chi_squared": 33.02,
+        "effect_size": -931.92,
+        "favors": "corpus2"
+      },
+      {
+        "word": "learning",
+        "freq_corpus1": 292,
+        "freq_corpus2": 46,
+        "norm_freq_corpus1": 1254.38,
+        "norm_freq_corpus2": 322.95,
+        "log_likelihood": 99.0,
+        "chi_squared": 32.31,
+        "effect_size": 931.43,
+        "favors": "corpus1"
+      },
+      {
+        "word": "search",
+        "freq_corpus1": 290,
+        "freq_corpus2": 309,
+        "norm_freq_corpus1": 1245.79,
+        "norm_freq_corpus2": 2169.4,
+        "log_likelihood": 45.71,
+        "chi_squared": 17.92,
+        "effect_size": -923.61,
+        "favors": "corpus2"
+      },
+      {
+        "word": "changes",
+        "freq_corpus1": 117,
+        "freq_corpus2": 203,
+        "norm_freq_corpus1": 502.61,
+        "norm_freq_corpus2": 1425.2,
+        "log_likelihood": 84.76,
+        "chi_squared": 33.48,
+        "effect_size": -922.59,
+        "favors": "corpus2"
+      },
+      {
+        "word": "doesn",
+        "freq_corpus1": 47,
+        "freq_corpus2": 160,
+        "norm_freq_corpus1": 201.9,
+        "norm_freq_corpus2": 1123.31,
+        "log_likelihood": 133.06,
+        "chi_squared": 51.62,
+        "effect_size": -921.41,
+        "favors": "corpus2"
+      },
+      {
+        "word": "software",
+        "freq_corpus1": 299,
+        "freq_corpus2": 52,
+        "norm_freq_corpus1": 1284.45,
+        "norm_freq_corpus2": 365.08,
+        "log_likelihood": 91.75,
+        "chi_squared": 30.31,
+        "effect_size": 919.38,
+        "favors": "corpus1"
+      },
+      {
+        "word": "since",
+        "freq_corpus1": 111,
+        "freq_corpus2": 198,
+        "norm_freq_corpus1": 476.84,
+        "norm_freq_corpus2": 1390.1,
+        "log_likelihood": 86.02,
+        "chi_squared": 33.97,
+        "effect_size": -913.26,
+        "favors": "corpus2"
+      }
+    ]
+  }
+}

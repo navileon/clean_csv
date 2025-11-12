@@ -1,0 +1,503 @@
+{
+  "methodology": {
+    "algorithm": "Latent Dirichlet Allocation (LDA)",
+    "library": "scikit-learn",
+    "n_topics": 8,
+    "preprocessing": "CountVectorizer with stopwords removal, ngrams(1,2)",
+    "parameters": {
+      "max_df": 0.8,
+      "min_df": 5,
+      "max_features": 1000
+    }
+  },
+  "large_companies": {
+    "total_paragraphs": 4640,
+    "topics": [
+      {
+        "topic_id": 1,
+        "topic_label": "Developer Tools & APIs",
+        "top_words": [
+          "api",
+          "name",
+          "resource",
+          "domain",
+          "vpc",
+          "following",
+          "lambda",
+          "action",
+          "create",
+          "step"
+        ],
+        "word_weights": {
+          "api": 223.4863,
+          "name": 205.2502,
+          "resource": 191.2253,
+          "domain": 174.44,
+          "vpc": 171.5614,
+          "following": 158.9215,
+          "lambda": 157.6844,
+          "action": 157.1348,
+          "create": 142.2604,
+          "step": 134.1928
+        },
+        "document_count": 440,
+        "prevalence_percent": 9.5
+      },
+      {
+        "topic_id": 2,
+        "topic_label": "Cloud Infrastructure",
+        "top_words": [
+          "region",
+          "server",
+          "file",
+          "cluster",
+          "storage",
+          "create",
+          "job",
+          "sql",
+          "data",
+          "instance"
+        ],
+        "word_weights": {
+          "region": 345.8574,
+          "server": 257.5225,
+          "file": 247.7965,
+          "cluster": 198.8149,
+          "storage": 145.4,
+          "create": 139.97,
+          "job": 133.2583,
+          "sql": 127.475,
+          "data": 126.2857,
+          "instance": 125.547
+        },
+        "document_count": 342,
+        "prevalence_percent": 7.4
+      },
+      {
+        "topic_id": 3,
+        "topic_label": "Security & Compliance",
+        "top_words": [
+          "data",
+          "security",
+          "solution",
+          "cloud",
+          "services",
+          "applications",
+          "service",
+          "bing",
+          "performance",
+          "architecture"
+        ],
+        "word_weights": {
+          "data": 1055.7141,
+          "security": 667.6666,
+          "solution": 385.0511,
+          "cloud": 379.7366,
+          "services": 348.2924,
+          "applications": 316.022,
+          "service": 290.2715,
+          "bing": 286.9078,
+          "performance": 252.6002,
+          "architecture": 237.9082
+        },
+        "document_count": 773,
+        "prevalence_percent": 16.7
+      },
+      {
+        "topic_id": 4,
+        "topic_label": "Cloud Infrastructure",
+        "top_words": [
+          "customers",
+          "solutions",
+          "cloud",
+          "work",
+          "business",
+          "help",
+          "partners",
+          "across",
+          "technology",
+          "innovation"
+        ],
+        "word_weights": {
+          "customers": 776.1354,
+          "solutions": 704.3902,
+          "cloud": 654.5194,
+          "work": 606.6818,
+          "business": 591.8659,
+          "help": 519.1335,
+          "partners": 460.2183,
+          "across": 458.0859,
+          "technology": 453.1331,
+          "innovation": 406.6071
+        },
+        "document_count": 1803,
+        "prevalence_percent": 38.9
+      },
+      {
+        "topic_id": 5,
+        "topic_label": "AI & Machine Learning",
+        "top_words": [
+          "data",
+          "service",
+          "agent",
+          "product",
+          "openai",
+          "agents",
+          "insights",
+          "products",
+          "tools",
+          "context"
+        ],
+        "word_weights": {
+          "data": 1260.6017,
+          "service": 313.9021,
+          "agent": 250.6504,
+          "product": 242.2512,
+          "openai": 231.5799,
+          "agents": 231.1466,
+          "insights": 229.9315,
+          "products": 199.104,
+          "tools": 160.1059,
+          "context": 158.9143
+        },
+        "document_count": 261,
+        "prevalence_percent": 5.6
+      },
+      {
+        "topic_id": 6,
+        "topic_label": "AI & Machine Learning",
+        "top_words": [
+          "model",
+          "sagemaker",
+          "models",
+          "text",
+          "deploy",
+          "search",
+          "code",
+          "open",
+          "pipeline",
+          "run"
+        ],
+        "word_weights": {
+          "model": 481.1463,
+          "sagemaker": 273.0386,
+          "models": 272.0175,
+          "text": 227.2483,
+          "deploy": 163.8384,
+          "search": 154.3036,
+          "code": 146.6252,
+          "open": 143.3665,
+          "pipeline": 138.8566,
+          "run": 123.5083
+        },
+        "document_count": 340,
+        "prevalence_percent": 7.3
+      },
+      {
+        "topic_id": 7,
+        "topic_label": "Security & Compliance",
+        "top_words": [
+          "account",
+          "access",
+          "user",
+          "policy",
+          "resources",
+          "service",
+          "role",
+          "create",
+          "authentication",
+          "apps"
+        ],
+        "word_weights": {
+          "account": 454.5124,
+          "access": 347.401,
+          "user": 307.3804,
+          "policy": 184.2573,
+          "resources": 175.4546,
+          "service": 157.2526,
+          "role": 153.8188,
+          "create": 148.3462,
+          "authentication": 145.6572,
+          "apps": 143.1471
+        },
+        "document_count": 367,
+        "prevalence_percent": 7.9
+      },
+      {
+        "topic_id": 8,
+        "topic_label": "Topic: cost, users, content",
+        "top_words": [
+          "cost",
+          "users",
+          "content",
+          "windows",
+          "chat",
+          "number",
+          "per",
+          "experience",
+          "media",
+          "able"
+        ],
+        "word_weights": {
+          "cost": 232.8936,
+          "users": 204.3544,
+          "content": 195.7687,
+          "windows": 168.2632,
+          "chat": 156.0384,
+          "number": 151.7361,
+          "per": 127.0798,
+          "experience": 118.4305,
+          "media": 115.7252,
+          "able": 111.1183
+        },
+        "document_count": 314,
+        "prevalence_percent": 6.8
+      }
+    ]
+  },
+  "small_companies": {
+    "total_paragraphs": 7289,
+    "topics": [
+      {
+        "topic_id": 1,
+        "topic_label": "Developer Tools & APIs",
+        "top_words": [
+          "create",
+          "app",
+          "api",
+          "run",
+          "open",
+          "source",
+          "request",
+          "platform",
+          "project",
+          "start"
+        ],
+        "word_weights": {
+          "create": 348.7874,
+          "app": 321.8934,
+          "api": 278.5952,
+          "run": 264.2709,
+          "open": 229.35,
+          "source": 218.8068,
+          "request": 201.3412,
+          "platform": 170.5954,
+          "project": 168.4967,
+          "start": 148.7778
+        },
+        "document_count": 1142,
+        "prevalence_percent": 15.7
+      },
+      {
+        "topic_id": 2,
+        "topic_label": "AI & Machine Learning",
+        "top_words": [
+          "data",
+          "database",
+          "table",
+          "machine",
+          "storage",
+          "sqlite",
+          "token",
+          "changes",
+          "run",
+          "process"
+        ],
+        "word_weights": {
+          "data": 732.5389,
+          "database": 601.0206,
+          "table": 285.0228,
+          "machine": 220.4775,
+          "storage": 211.6492,
+          "sqlite": 202.9211,
+          "token": 190.5149,
+          "changes": 184.2254,
+          "run": 169.7639,
+          "process": 146.7251
+        },
+        "document_count": 1448,
+        "prevalence_percent": 19.9
+      },
+      {
+        "topic_id": 3,
+        "topic_label": "Infrastructure & Operations",
+        "top_words": [
+          "node",
+          "across",
+          "per",
+          "tokens",
+          "step",
+          "number",
+          "second",
+          "systems",
+          "whether",
+          "multiple"
+        ],
+        "word_weights": {
+          "node": 164.377,
+          "across": 146.058,
+          "per": 144.8789,
+          "tokens": 138.1061,
+          "step": 116.2287,
+          "number": 105.9656,
+          "second": 103.8449,
+          "systems": 99.4366,
+          "whether": 94.1814,
+          "multiple": 92.4357
+        },
+        "document_count": 376,
+        "prevalence_percent": 5.2
+      },
+      {
+        "topic_id": 4,
+        "topic_label": "Database & Storage",
+        "top_words": [
+          "postgres",
+          "user",
+          "see",
+          "work",
+          "features",
+          "apps",
+          "already",
+          "api",
+          "security",
+          "started"
+        ],
+        "word_weights": {
+          "postgres": 575.6362,
+          "user": 334.5301,
+          "see": 277.8047,
+          "work": 204.4174,
+          "features": 143.5262,
+          "apps": 139.2034,
+          "already": 123.0309,
+          "api": 114.0335,
+          "security": 113.7947,
+          "started": 113.1883
+        },
+        "document_count": 1048,
+        "prevalence_percent": 14.4
+      },
+      {
+        "topic_id": 5,
+        "topic_label": "Infrastructure & Operations",
+        "top_words": [
+          "real",
+          "server",
+          "feature",
+          "even",
+          "making",
+          "lot",
+          "code",
+          "team",
+          "since",
+          "schema"
+        ],
+        "word_weights": {
+          "real": 190.8794,
+          "server": 176.9414,
+          "feature": 174.894,
+          "even": 172.9849,
+          "making": 172.7434,
+          "lot": 170.3175,
+          "code": 163.0515,
+          "team": 160.2085,
+          "since": 159.9916,
+          "schema": 155.5393
+        },
+        "document_count": 966,
+        "prevalence_percent": 13.3
+      },
+      {
+        "topic_id": 6,
+        "topic_label": "Database & Storage",
+        "top_words": [
+          "file",
+          "functions",
+          "function",
+          "example",
+          "query",
+          "page",
+          "edge",
+          "database",
+          "sql",
+          "full"
+        ],
+        "word_weights": {
+          "file": 333.5876,
+          "functions": 283.361,
+          "function": 248.4241,
+          "example": 241.6157,
+          "query": 229.5768,
+          "page": 223.2076,
+          "edge": 222.916,
+          "database": 215.6364,
+          "sql": 199.5736,
+          "full": 158.6533
+        },
+        "document_count": 758,
+        "prevalence_percent": 10.4
+      },
+      {
+        "topic_id": 7,
+        "topic_label": "AI & Machine Learning",
+        "top_words": [
+          "model",
+          "models",
+          "performance",
+          "memory",
+          "gpu",
+          "help",
+          "latency",
+          "default",
+          "find",
+          "users"
+        ],
+        "word_weights": {
+          "model": 288.3177,
+          "models": 243.5798,
+          "performance": 239.3206,
+          "memory": 169.4313,
+          "gpu": 160.4522,
+          "help": 153.364,
+          "latency": 147.2208,
+          "default": 137.7871,
+          "find": 133.1002,
+          "users": 124.2419
+        },
+        "document_count": 733,
+        "prevalence_percent": 10.1
+      },
+      {
+        "topic_id": 8,
+        "topic_label": "Security & Compliance",
+        "top_words": [
+          "search",
+          "information",
+          "pro",
+          "access",
+          "comet",
+          "production",
+          "enterprise",
+          "assistant",
+          "users",
+          "approach"
+        ],
+        "word_weights": {
+          "search": 228.4462,
+          "information": 207.3688,
+          "pro": 199.4254,
+          "access": 173.8616,
+          "comet": 171.8867,
+          "production": 157.6254,
+          "enterprise": 151.9238,
+          "assistant": 151.5901,
+          "users": 124.868,
+          "approach": 124.3498
+        },
+        "document_count": 818,
+        "prevalence_percent": 11.2
+      }
+    ]
+  }
+}

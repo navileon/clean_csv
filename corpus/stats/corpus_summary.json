@@ -8,7 +8,7 @@
   },
   "sources": [
     {
-      "name": "AWS-Blogs",
+      "name": "aws_blogs",
       "source_file": "AWS-Blogs.csv",
       "paragraphs": 2677,
       "words": 221775,
@@ -29,7 +29,7 @@
       "language": "en"
     },
     {
-      "name": "perplexity-blog",
+      "name": "perplexity_blog",
       "source_file": "perplexity-blog.csv",
       "paragraphs": 1189,
       "words": 51655,
